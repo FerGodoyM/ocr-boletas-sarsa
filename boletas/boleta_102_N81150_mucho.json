@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_102_N81150_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": -0.487,
+    "generado_en": "2026-06-10T17:09:22"
+  },
+  "encabezado": {
+    "numero_boleta": "081150",
+    "fecha_emision": "09/11/2026",
+    "fecha_vence": "09/12/2026",
+    "proveedor": {
+      "nombre": "Comercial Frigorífico Central S.A.",
+      "rut": "78.234.567-3",
+      "direccion": "Ruta 5 Norte Km 12, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Restaurante El Rincón del Sabor",
+      "rut": "12.345.678-9",
+      "direccion": "Los Carrera 523, La Serena"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Contado",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 12,
+      "unidad": "Bandej",
+      "precio_unitario": 10850,
+      "total": 130200
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 5,
+      "unidad": "Paq.",
+      "precio_unitario": 3900,
+      "total": 19500
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 6,
+      "unidad": "Bandej",
+      "precio_unitario": 13500,
+      "total": 81000
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 9400,
+      "total": 28200
+    },
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 11100,
+      "total": 33300
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 5,
+      "unidad": "Kg",
+      "precio_unitario": 2450,
+      "total": 12250
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 7,
+      "unidad": "Bolsa",
+      "precio_unitario": 8300,
+      "total": 58100
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 362550,
+    "iva_19": 68884,
+    "total": 431434
+  }
+}

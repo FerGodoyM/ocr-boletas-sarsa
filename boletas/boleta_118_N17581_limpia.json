@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_118_N17581_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": 0.136,
+    "generado_en": "2026-06-10T17:09:44"
+  },
+  "encabezado": {
+    "numero_boleta": "017581",
+    "fecha_emision": "27/05/2025",
+    "fecha_vence": "27/06/2025",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Contado",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 7900,
+      "total": 23700
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 6700,
+      "total": 40200
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 4,
+      "unidad": "Saco",
+      "precio_unitario": 24850,
+      "total": 99400
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 4950,
+      "total": 14850
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 8,
+      "unidad": "Bandej",
+      "precio_unitario": 12450,
+      "total": 99600
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 7,
+      "unidad": "Caja",
+      "precio_unitario": 10300,
+      "total": 72100
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 4500,
+      "total": 18000
+    },
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 13350,
+      "total": 53400
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 12150,
+      "total": 72900
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 8450,
+      "total": 16900
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 8150,
+      "total": 32600
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 3,
+      "unidad": "Kg",
+      "precio_unitario": 1850,
+      "total": 5550
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 11,
+      "unidad": "Unid.",
+      "precio_unitario": 2100,
+      "total": 23100
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 572300,
+    "iva_19": 108737,
+    "total": 681037
+  }
+}

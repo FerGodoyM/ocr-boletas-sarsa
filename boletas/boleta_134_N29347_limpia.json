@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_134_N29347_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": 0.027,
+    "generado_en": "2026-06-10T17:10:07"
+  },
+  "encabezado": {
+    "numero_boleta": "029347",
+    "fecha_emision": "03/02/2026",
+    "fecha_vence": "03/03/2026",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Andrés Castillo Díaz",
+    "condicion_pago": "Contado",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 3,
+      "unidad": "Paq.",
+      "precio_unitario": 3300,
+      "total": 9900
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 13100,
+      "total": 65500
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 9000,
+      "total": 54000
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 5750,
+      "total": 23000
+    },
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 13700,
+      "total": 54800
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 3,
+      "unidad": "Saco",
+      "precio_unitario": 11450,
+      "total": 34350
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 3,
+      "unidad": "Bandej",
+      "precio_unitario": 11450,
+      "total": 34350
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 3350,
+      "total": 23450
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 3,
+      "unidad": "Bandej",
+      "precio_unitario": 12650,
+      "total": 37950
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 7,
+      "unidad": "Caja",
+      "precio_unitario": 5900,
+      "total": 41300
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 6450,
+      "total": 12900
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 7500,
+      "total": 22500
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 414000,
+    "iva_19": 78660,
+    "total": 492660
+  }
+}

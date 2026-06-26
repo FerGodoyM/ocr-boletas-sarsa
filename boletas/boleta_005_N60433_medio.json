@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_005_N60433_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": 2.023,
+    "generado_en": "2026-06-10T17:07:03"
+  },
+  "encabezado": {
+    "numero_boleta": "060433",
+    "fecha_emision": "08/12/2025",
+    "fecha_vence": "08/01/2026",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Bistró Los Aromos",
+      "rut": "16.789.012-4",
+      "direccion": "Av. El Santo 312, La Serena"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Contado",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 25450,
+      "total": 25450
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 9,
+      "unidad": "Bolsa",
+      "precio_unitario": 3250,
+      "total": 29250
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 17050,
+      "total": 51150
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 5600,
+      "total": 22400
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 12200,
+      "total": 24400
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 4950,
+      "total": 29700
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 8900,
+      "total": 44500
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 5,
+      "unidad": "Bandej",
+      "precio_unitario": 12850,
+      "total": 64250
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 4100,
+      "total": 24600
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 4,
+      "unidad": "Kg",
+      "precio_unitario": 2250,
+      "total": 9000
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 4,
+      "unidad": "Saco",
+      "precio_unitario": 12050,
+      "total": 48200
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 372900,
+    "iva_19": 70851,
+    "total": 443751
+  }
+}

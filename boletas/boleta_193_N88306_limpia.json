@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_193_N88306_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": -0.072,
+    "generado_en": "2026-06-10T17:11:31"
+  },
+  "encabezado": {
+    "numero_boleta": "088306",
+    "fecha_emision": "26/07/2026",
+    "fecha_vence": "26/08/2026",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Restaurante El Rincón del Sabor",
+      "rut": "12.345.678-9",
+      "direccion": "Los Carrera 523, La Serena"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 11,
+      "unidad": "Unid.",
+      "precio_unitario": 1100,
+      "total": 12100
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 3,
+      "unidad": "Saco",
+      "precio_unitario": 24900,
+      "total": 74700
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 2,
+      "unidad": "Saco",
+      "precio_unitario": 13150,
+      "total": 26300
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 4,
+      "unidad": "Bolsa",
+      "precio_unitario": 14700,
+      "total": 58800
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 6200,
+      "total": 31000
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 6300,
+      "total": 31500
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 21350,
+      "total": 85400
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 13150,
+      "total": 65750
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 24650,
+      "total": 73950
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 9,
+      "unidad": "Caja",
+      "precio_unitario": 9000,
+      "total": 81000
+    },
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 13000,
+      "total": 39000
+    },
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 11350,
+      "total": 68100
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 4,
+      "unidad": "Bandej",
+      "precio_unitario": 9600,
+      "total": 38400
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 686000,
+    "iva_19": 130340,
+    "total": 816340
+  }
+}

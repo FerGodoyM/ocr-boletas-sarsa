@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_103_N62162_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -1.254,
+    "generado_en": "2026-06-10T17:09:23"
+  },
+  "encabezado": {
+    "numero_boleta": "062162",
+    "fecha_emision": "19/06/2026",
+    "fecha_vence": "19/07/2026",
+    "proveedor": {
+      "nombre": "Comercial Frigorífico Central S.A.",
+      "rut": "78.234.567-3",
+      "direccion": "Ruta 5 Norte Km 12, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 7,
+      "unidad": "Saco",
+      "precio_unitario": 14550,
+      "total": 101850
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 4,
+      "unidad": "Saco",
+      "precio_unitario": 19000,
+      "total": 76000
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 6550,
+      "total": 39300
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 11,
+      "unidad": "Bolsa",
+      "precio_unitario": 3550,
+      "total": 39050
+    },
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 11450,
+      "total": 57250
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 35,
+      "unidad": "Unid.",
+      "precio_unitario": 2000,
+      "total": 70000
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 22700,
+      "total": 45400
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 4,
+      "unidad": "Bolsa",
+      "precio_unitario": 7600,
+      "total": 30400
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 4,
+      "unidad": "Bandej",
+      "precio_unitario": 11200,
+      "total": 44800
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 13,
+      "unidad": "Unid.",
+      "precio_unitario": 500,
+      "total": 6500
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 510550,
+    "iva_19": 97004,
+    "total": 607554
+  }
+}

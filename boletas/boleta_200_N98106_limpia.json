@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_200_N98106_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": -0.099,
+    "generado_en": "2026-06-10T17:11:41"
+  },
+  "encabezado": {
+    "numero_boleta": "098106",
+    "fecha_emision": "16/06/2026",
+    "fecha_vence": "16/07/2026",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Restaurante El Rincón del Sabor",
+      "rut": "12.345.678-9",
+      "direccion": "Los Carrera 523, La Serena"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 1,
+      "unidad": "Saco",
+      "precio_unitario": 15450,
+      "total": 15450
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 4,
+      "unidad": "Bandej",
+      "precio_unitario": 9900,
+      "total": 39600
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 19000,
+      "total": 38000
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 3650,
+      "total": 18250
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 2,
+      "unidad": "Paq.",
+      "precio_unitario": 3750,
+      "total": 7500
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 32,
+      "unidad": "Unid.",
+      "precio_unitario": 2100,
+      "total": 67200
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 8200,
+      "total": 41000
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 2,
+      "unidad": "Bolsa",
+      "precio_unitario": 12700,
+      "total": 25400
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 6850,
+      "total": 6850
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 10150,
+      "total": 60900
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 4550,
+      "total": 13650
+    },
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 11100,
+      "total": 33300
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 367100,
+    "iva_19": 69749,
+    "total": 436849
+  }
+}

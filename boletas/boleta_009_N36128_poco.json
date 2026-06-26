@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_009_N36128_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.04,
+    "generado_en": "2026-06-10T17:07:09"
+  },
+  "encabezado": {
+    "numero_boleta": "036128",
+    "fecha_emision": "06/04/2026",
+    "fecha_vence": "06/05/2026",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Andrés Castillo Díaz",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 2,
+      "unidad": "Bolsa",
+      "precio_unitario": 4850,
+      "total": 9700
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 12350,
+      "total": 24700
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 5050,
+      "total": 15150
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 17550,
+      "total": 17550
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 67100,
+    "iva_19": 12749,
+    "total": 79849
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_030_N33251_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": -4.13,
+    "generado_en": "2026-06-10T17:07:39"
+  },
+  "encabezado": {
+    "numero_boleta": "033251",
+    "fecha_emision": "10/02/2026",
+    "fecha_vence": "10/03/2026",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Contado",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 8800,
+      "total": 26400
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 4250,
+      "total": 17000
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 6150,
+      "total": 24600
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 27450,
+      "total": 54900
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 5550,
+      "total": 38850
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 9250,
+      "total": 27750
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 8,
+      "unidad": "Bolsa",
+      "precio_unitario": 9600,
+      "total": 76800
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 5400,
+      "total": 27000
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 5000,
+      "total": 25000
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 7550,
+      "total": 15100
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 10,
+      "unidad": "Bolsa",
+      "precio_unitario": 3900,
+      "total": 39000
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 372400,
+    "iva_19": 70756,
+    "total": 443156
+  }
+}

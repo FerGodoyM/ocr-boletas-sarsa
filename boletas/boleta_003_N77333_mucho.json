@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_003_N77333_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": 3.681,
+    "generado_en": "2026-06-10T17:07:00"
+  },
+  "encabezado": {
+    "numero_boleta": "077333",
+    "fecha_emision": "01/09/2026",
+    "fecha_vence": "01/10/2026",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Bistró Los Aromos",
+      "rut": "16.789.012-4",
+      "direccion": "Av. El Santo 312, La Serena"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 6700,
+      "total": 40200
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 1,
+      "unidad": "Saco",
+      "precio_unitario": 22650,
+      "total": 22650
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 3550,
+      "total": 28400
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 2,
+      "unidad": "Bandej",
+      "precio_unitario": 10900,
+      "total": 21800
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 10750,
+      "total": 21500
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 134550,
+    "iva_19": 25564,
+    "total": 160114
+  }
+}

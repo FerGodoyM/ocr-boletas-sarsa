@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_135_N23459_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.517,
+    "generado_en": "2026-06-10T17:10:08"
+  },
+  "encabezado": {
+    "numero_boleta": "023459",
+    "fecha_emision": "17/07/2026",
+    "fecha_vence": "17/08/2026",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 5450,
+      "total": 16350
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 11050,
+      "total": 33150
+    },
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 9400,
+      "total": 18800
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 3,
+      "unidad": "Saco",
+      "precio_unitario": 22700,
+      "total": 68100
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 6,
+      "unidad": "Saco",
+      "precio_unitario": 15400,
+      "total": 92400
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 7,
+      "unidad": "Bandej",
+      "precio_unitario": 16800,
+      "total": 117600
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 2800,
+      "total": 14000
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 23500,
+      "total": 47000
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 4,
+      "unidad": "Kg",
+      "precio_unitario": 2150,
+      "total": 8600
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 416000,
+    "iva_19": 79040,
+    "total": 495040
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_094_N45099_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": -0.194,
+    "generado_en": "2026-06-10T17:09:10"
+  },
+  "encabezado": {
+    "numero_boleta": "045099",
+    "fecha_emision": "25/05/2025",
+    "fecha_vence": "25/06/2025",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 10300,
+      "total": 61800
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 20500,
+      "total": 61500
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 3450,
+      "total": 20700
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 8100,
+      "total": 16200
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 160200,
+    "iva_19": 30438,
+    "total": 190638
+  }
+}

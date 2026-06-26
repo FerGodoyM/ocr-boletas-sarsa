@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_115_N54613_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": 0.644,
+    "generado_en": "2026-06-10T17:09:40"
+  },
+  "encabezado": {
+    "numero_boleta": "054613",
+    "fecha_emision": "28/02/2026",
+    "fecha_vence": "28/03/2026",
+    "proveedor": {
+      "nombre": "Comercial Frigorífico Central S.A.",
+      "rut": "78.234.567-3",
+      "direccion": "Ruta 5 Norte Km 12, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Bistró Los Aromos",
+      "rut": "16.789.012-4",
+      "direccion": "Av. El Santo 312, La Serena"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Contado",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 6,
+      "unidad": "Saco",
+      "precio_unitario": 12200,
+      "total": 73200
+    },
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 8700,
+      "total": 43500
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 4700,
+      "total": 18800
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 3600,
+      "total": 14400
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 149900,
+    "iva_19": 28481,
+    "total": 178381
+  }
+}

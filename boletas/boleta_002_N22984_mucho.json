@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_002_N22984_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": -3.919,
+    "generado_en": "2026-06-10T17:06:59"
+  },
+  "encabezado": {
+    "numero_boleta": "022984",
+    "fecha_emision": "08/10/2025",
+    "fecha_vence": "08/11/2025",
+    "proveedor": {
+      "nombre": "Comercial Frigorífico Central S.A.",
+      "rut": "78.234.567-3",
+      "direccion": "Ruta 5 Norte Km 12, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 10600,
+      "total": 31800
+    },
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 10100,
+      "total": 20200
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 14100,
+      "total": 14100
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 10,
+      "unidad": "Caja",
+      "precio_unitario": 10800,
+      "total": 108000
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 6300,
+      "total": 18900
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 6700,
+      "total": 13400
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 20650,
+      "total": 61950
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 2,
+      "unidad": "Saco",
+      "precio_unitario": 19550,
+      "total": 39100
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 27100,
+      "total": 27100
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 4150,
+      "total": 20750
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 12,
+      "unidad": "Unid.",
+      "precio_unitario": 1100,
+      "total": 13200
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 368500,
+    "iva_19": 70015,
+    "total": 438515
+  }
+}

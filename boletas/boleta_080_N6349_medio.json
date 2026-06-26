@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_080_N6349_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": 0.354,
+    "generado_en": "2026-06-10T17:08:50"
+  },
+  "encabezado": {
+    "numero_boleta": "006349",
+    "fecha_emision": "01/01/2025",
+    "fecha_vence": "01/02/2025",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 5500,
+      "total": 11000
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 7,
+      "unidad": "Caja",
+      "precio_unitario": 8450,
+      "total": 59150
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 4250,
+      "total": 12750
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 24950,
+      "total": 74850
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 5,
+      "unidad": "Saco",
+      "precio_unitario": 16450,
+      "total": 82250
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 8550,
+      "total": 25650
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 6500,
+      "total": 52000
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 9,
+      "unidad": "Bandej",
+      "precio_unitario": 10000,
+      "total": 90000
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 15250,
+      "total": 61000
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 22500,
+      "total": 90000
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 558650,
+    "iva_19": 106144,
+    "total": 664794
+  }
+}

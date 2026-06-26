@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_067_N73719_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -1.61,
+    "generado_en": "2026-06-10T17:08:31"
+  },
+  "encabezado": {
+    "numero_boleta": "073719",
+    "fecha_emision": "24/04/2026",
+    "fecha_vence": "24/05/2026",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Restaurante El Rincón del Sabor",
+      "rut": "12.345.678-9",
+      "direccion": "Los Carrera 523, La Serena"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 4700,
+      "total": 28200
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 9,
+      "unidad": "Bolsa",
+      "precio_unitario": 4050,
+      "total": 36450
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 10,
+      "unidad": "Caja",
+      "precio_unitario": 6350,
+      "total": 63500
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 9,
+      "unidad": "Unid.",
+      "precio_unitario": 3350,
+      "total": 30150
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 8150,
+      "total": 32600
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 8,
+      "unidad": "Bolsa",
+      "precio_unitario": 10150,
+      "total": 81200
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 3,
+      "unidad": "Saco",
+      "precio_unitario": 19800,
+      "total": 59400
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 18300,
+      "total": 36600
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 7400,
+      "total": 29600
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 3750,
+      "total": 22500
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 3700,
+      "total": 22200
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 10000,
+      "total": 30000
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 24600,
+      "total": 49200
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 521600,
+    "iva_19": 99104,
+    "total": 620704
+  }
+}

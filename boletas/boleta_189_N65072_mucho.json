@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_189_N65072_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": 3.232,
+    "generado_en": "2026-06-10T17:11:25"
+  },
+  "encabezado": {
+    "numero_boleta": "065072",
+    "fecha_emision": "07/01/2026",
+    "fecha_vence": "07/02/2026",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Bistró Los Aromos",
+      "rut": "16.789.012-4",
+      "direccion": "Av. El Santo 312, La Serena"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 10,
+      "unidad": "Kg",
+      "precio_unitario": 2300,
+      "total": 23000
+    },
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 10350,
+      "total": 31050
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 8,
+      "unidad": "Bandej",
+      "precio_unitario": 13100,
+      "total": 104800
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 7250,
+      "total": 36250
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 8350,
+      "total": 33400
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 7,
+      "unidad": "Bolsa",
+      "precio_unitario": 10900,
+      "total": 76300
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 11,
+      "unidad": "Unid.",
+      "precio_unitario": 2450,
+      "total": 26950
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 1,
+      "unidad": "Saco",
+      "precio_unitario": 20900,
+      "total": 20900
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 1,
+      "unidad": "Saco",
+      "precio_unitario": 18050,
+      "total": 18050
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 370700,
+    "iva_19": 70433,
+    "total": 441133
+  }
+}

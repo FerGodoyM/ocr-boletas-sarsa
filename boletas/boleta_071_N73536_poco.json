@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_071_N73536_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.493,
+    "generado_en": "2026-06-10T17:08:37"
+  },
+  "encabezado": {
+    "numero_boleta": "073536",
+    "fecha_emision": "04/04/2026",
+    "fecha_vence": "04/05/2026",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 4500,
+      "total": 22500
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 3600,
+      "total": 28800
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 14,
+      "unidad": "Unid.",
+      "precio_unitario": 2450,
+      "total": 34300
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 3900,
+      "total": 11700
+    },
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 10700,
+      "total": 42800
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 27200,
+      "total": 81600
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 7700,
+      "total": 30800
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 6450,
+      "total": 32250
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 7850,
+      "total": 47100
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 5750,
+      "total": 17250
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 12,
+      "unidad": "Unid.",
+      "precio_unitario": 400,
+      "total": 4800
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 11650,
+      "total": 46600
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 400500,
+    "iva_19": 76095,
+    "total": 476595
+  }
+}

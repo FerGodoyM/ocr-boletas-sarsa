@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_177_N47496_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": -0.162,
+    "generado_en": "2026-06-10T17:11:08"
+  },
+  "encabezado": {
+    "numero_boleta": "047496",
+    "fecha_emision": "28/04/2026",
+    "fecha_vence": "28/05/2026",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 1,
+      "unidad": "Saco",
+      "precio_unitario": 21100,
+      "total": 21100
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 3550,
+      "total": 14200
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 7,
+      "unidad": "Saco",
+      "precio_unitario": 13150,
+      "total": 92050
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 7000,
+      "total": 14000
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 141350,
+    "iva_19": 26856,
+    "total": 168206
+  }
+}

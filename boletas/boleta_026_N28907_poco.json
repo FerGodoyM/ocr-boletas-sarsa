@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_026_N28907_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": 0.66,
+    "generado_en": "2026-06-10T17:07:33"
+  },
+  "encabezado": {
+    "numero_boleta": "028907",
+    "fecha_emision": "19/01/2025",
+    "fecha_vence": "19/02/2025",
+    "proveedor": {
+      "nombre": "Comercial Frigorífico Central S.A.",
+      "rut": "78.234.567-3",
+      "direccion": "Ruta 5 Norte Km 12, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Gabriela Muñoz Torres",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 7,
+      "unidad": "Bolsa",
+      "precio_unitario": 2950,
+      "total": 20650
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 12,
+      "unidad": "Bandej",
+      "precio_unitario": 10350,
+      "total": 124200
+    },
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 14950,
+      "total": 59800
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 8650,
+      "total": 25950
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 3,
+      "unidad": "Saco",
+      "precio_unitario": 20100,
+      "total": 60300
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 14,
+      "unidad": "Caja",
+      "precio_unitario": 5600,
+      "total": 78400
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 13250,
+      "total": 39750
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 7,
+      "unidad": "Caja",
+      "precio_unitario": 6900,
+      "total": 48300
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 2,
+      "unidad": "Bolsa",
+      "precio_unitario": 8200,
+      "total": 16400
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 14,
+      "unidad": "Unid.",
+      "precio_unitario": 1850,
+      "total": 25900
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 2,
+      "unidad": "Saco",
+      "precio_unitario": 12100,
+      "total": 24200
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 523850,
+    "iva_19": 99532,
+    "total": 623382
+  }
+}

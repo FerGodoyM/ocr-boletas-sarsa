@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_142_N47300_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": -1.811,
+    "generado_en": "2026-06-10T17:10:18"
+  },
+  "encabezado": {
+    "numero_boleta": "047300",
+    "fecha_emision": "03/06/2025",
+    "fecha_vence": "03/07/2025",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Gabriela Muñoz Torres",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 8,
+      "unidad": "Saco",
+      "precio_unitario": 13400,
+      "total": 107200
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 3,
+      "unidad": "Kg",
+      "precio_unitario": 2050,
+      "total": 6150
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 5300,
+      "total": 15900
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 18,
+      "unidad": "Unid.",
+      "precio_unitario": 1350,
+      "total": 24300
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 22350,
+      "total": 67050
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 2,
+      "unidad": "Saco",
+      "precio_unitario": 23100,
+      "total": 46200
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 3650,
+      "total": 21900
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 8,
+      "unidad": "Bolsa",
+      "precio_unitario": 3300,
+      "total": 26400
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 315100,
+    "iva_19": 59869,
+    "total": 374969
+  }
+}

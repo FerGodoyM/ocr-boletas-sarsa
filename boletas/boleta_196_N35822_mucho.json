@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_196_N35822_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": 1.749,
+    "generado_en": "2026-06-10T17:11:35"
+  },
+  "encabezado": {
+    "numero_boleta": "035822",
+    "fecha_emision": "08/08/2026",
+    "fecha_vence": "08/09/2026",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Gabriela Muñoz Torres",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 2,
+      "unidad": "Paq.",
+      "precio_unitario": 2900,
+      "total": 5800
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 16200,
+      "total": 32400
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 14,
+      "unidad": "Caja",
+      "precio_unitario": 5350,
+      "total": 74900
+    },
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 8500,
+      "total": 51000
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 3,
+      "unidad": "Bandej",
+      "precio_unitario": 13300,
+      "total": 39900
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 1,
+      "unidad": "Saco",
+      "precio_unitario": 19400,
+      "total": 19400
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 6200,
+      "total": 24800
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 5800,
+      "total": 17400
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 4450,
+      "total": 31150
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 4400,
+      "total": 22000
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 8200,
+      "total": 49200
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 367950,
+    "iva_19": 69910,
+    "total": 437860
+  }
+}

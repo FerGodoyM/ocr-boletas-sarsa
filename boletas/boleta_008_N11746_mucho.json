@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_008_N11746_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": -4.622,
+    "generado_en": "2026-06-10T17:07:07"
+  },
+  "encabezado": {
+    "numero_boleta": "011746",
+    "fecha_emision": "25/11/2025",
+    "fecha_vence": "25/12/2025",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Andrés Castillo Díaz",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 12650,
+      "total": 37950
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 10750,
+      "total": 32250
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 27600,
+      "total": 82800
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 2,
+      "unidad": "Bolsa",
+      "precio_unitario": 4550,
+      "total": 9100
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 16,
+      "unidad": "Unid.",
+      "precio_unitario": 1350,
+      "total": 21600
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 5,
+      "unidad": "Saco",
+      "precio_unitario": 11550,
+      "total": 57750
+    },
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 10500,
+      "total": 52500
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 293950,
+    "iva_19": 55850,
+    "total": 349800
+  }
+}

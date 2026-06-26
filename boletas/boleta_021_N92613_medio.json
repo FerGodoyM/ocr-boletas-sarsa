@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_021_N92613_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": 2.317,
+    "generado_en": "2026-06-10T17:07:26"
+  },
+  "encabezado": {
+    "numero_boleta": "092613",
+    "fecha_emision": "07/11/2026",
+    "fecha_vence": "07/12/2026",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Restaurante El Rincón del Sabor",
+      "rut": "12.345.678-9",
+      "direccion": "Los Carrera 523, La Serena"
+    },
+    "vendedor": "Andrés Castillo Díaz",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 13900,
+      "total": 83400
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 6350,
+      "total": 19050
+    },
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 13200,
+      "total": 52800
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 8,
+      "unidad": "Saco",
+      "precio_unitario": 14350,
+      "total": 114800
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 1,
+      "unidad": "Saco",
+      "precio_unitario": 19700,
+      "total": 19700
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 23350,
+      "total": 140100
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 14850,
+      "total": 59400
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 1,
+      "unidad": "Saco",
+      "precio_unitario": 20550,
+      "total": 20550
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 7,
+      "unidad": "Bolsa",
+      "precio_unitario": 8350,
+      "total": 58450
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 6,
+      "unidad": "Paq.",
+      "precio_unitario": 4100,
+      "total": 24600
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 7900,
+      "total": 31600
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 11500,
+      "total": 23000
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 647450,
+    "iva_19": 123016,
+    "total": 770466
+  }
+}

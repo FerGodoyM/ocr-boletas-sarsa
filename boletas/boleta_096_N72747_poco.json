@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_096_N72747_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.697,
+    "generado_en": "2026-06-10T17:09:13"
+  },
+  "encabezado": {
+    "numero_boleta": "072747",
+    "fecha_emision": "14/10/2026",
+    "fecha_vence": "14/11/2026",
+    "proveedor": {
+      "nombre": "Comercial Frigorífico Central S.A.",
+      "rut": "78.234.567-3",
+      "direccion": "Ruta 5 Norte Km 12, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Andrés Castillo Díaz",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 4,
+      "unidad": "Kg",
+      "precio_unitario": 2500,
+      "total": 10000
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 5,
+      "unidad": "Saco",
+      "precio_unitario": 17550,
+      "total": 87750
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 1,
+      "unidad": "Unid.",
+      "precio_unitario": 7050,
+      "total": 7050
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 36,
+      "unidad": "Unid.",
+      "precio_unitario": 1950,
+      "total": 70200
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 2,
+      "unidad": "Paq.",
+      "precio_unitario": 3250,
+      "total": 6500
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 23400,
+      "total": 23400
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 4,
+      "unidad": "Bolsa",
+      "precio_unitario": 3000,
+      "total": 12000
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 8550,
+      "total": 17100
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 17750,
+      "total": 17750
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 4250,
+      "total": 29750
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 15,
+      "unidad": "Caja",
+      "precio_unitario": 5750,
+      "total": 86250
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 2,
+      "unidad": "Saco",
+      "precio_unitario": 19800,
+      "total": 39600
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 11,
+      "unidad": "Bandej",
+      "precio_unitario": 11600,
+      "total": 127600
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 534950,
+    "iva_19": 101640,
+    "total": 636590
+  }
+}

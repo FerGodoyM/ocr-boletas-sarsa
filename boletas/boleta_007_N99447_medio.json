@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_007_N99447_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -1.39,
+    "generado_en": "2026-06-10T17:07:06"
+  },
+  "encabezado": {
+    "numero_boleta": "099447",
+    "fecha_emision": "17/12/2026",
+    "fecha_vence": "17/01/2027",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Bistró Los Aromos",
+      "rut": "16.789.012-4",
+      "direccion": "Av. El Santo 312, La Serena"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 5900,
+      "total": 47200
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 9550,
+      "total": 28650
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 5350,
+      "total": 16050
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 21,
+      "unidad": "Unid.",
+      "precio_unitario": 1150,
+      "total": 24150
+    },
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 11900,
+      "total": 35700
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 1,
+      "unidad": "Saco",
+      "precio_unitario": 15850,
+      "total": 15850
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 3300,
+      "total": 9900
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 9700,
+      "total": 29100
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 3050,
+      "total": 15250
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 221850,
+    "iva_19": 42152,
+    "total": 264002
+  }
+}

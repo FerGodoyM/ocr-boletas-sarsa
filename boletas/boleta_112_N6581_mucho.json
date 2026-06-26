@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_112_N6581_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": -5.31,
+    "generado_en": "2026-06-10T17:09:36"
+  },
+  "encabezado": {
+    "numero_boleta": "006581",
+    "fecha_emision": "23/11/2026",
+    "fecha_vence": "23/12/2026",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 1,
+      "unidad": "Unid.",
+      "precio_unitario": 7300,
+      "total": 7300
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 7400,
+      "total": 29600
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 12,
+      "unidad": "Unid.",
+      "precio_unitario": 400,
+      "total": 4800
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 8,
+      "unidad": "Caja",
+      "precio_unitario": 5900,
+      "total": 47200
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 6250,
+      "total": 25000
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 20,
+      "unidad": "Unid.",
+      "precio_unitario": 1250,
+      "total": 25000
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 6100,
+      "total": 30500
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 9700,
+      "total": 29100
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 12650,
+      "total": 75900
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 274400,
+    "iva_19": 52136,
+    "total": 326536
+  }
+}

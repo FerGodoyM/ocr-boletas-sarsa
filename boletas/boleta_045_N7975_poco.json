@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_045_N7975_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.365,
+    "generado_en": "2026-06-10T17:08:00"
+  },
+  "encabezado": {
+    "numero_boleta": "007975",
+    "fecha_emision": "20/07/2026",
+    "fecha_vence": "20/08/2026",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Contado",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 3750,
+      "total": 15000
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 2,
+      "unidad": "Bolsa",
+      "precio_unitario": 9550,
+      "total": 19100
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 5550,
+      "total": 22200
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 22050,
+      "total": 22050
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 12,
+      "unidad": "Unid.",
+      "precio_unitario": 4050,
+      "total": 48600
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 10,
+      "unidad": "Kg",
+      "precio_unitario": 2050,
+      "total": 20500
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 3700,
+      "total": 18500
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 14450,
+      "total": 43350
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 5550,
+      "total": 22200
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 20900,
+      "total": 62700
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 5800,
+      "total": 40600
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 11800,
+      "total": 59000
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 9900,
+      "total": 59400
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 453200,
+    "iva_19": 86108,
+    "total": 539308
+  }
+}

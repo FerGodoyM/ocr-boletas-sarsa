@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_181_N54935_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": 1.593,
+    "generado_en": "2026-06-10T17:11:14"
+  },
+  "encabezado": {
+    "numero_boleta": "054935",
+    "fecha_emision": "24/07/2025",
+    "fecha_vence": "24/08/2025",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Restaurante El Rincón del Sabor",
+      "rut": "12.345.678-9",
+      "direccion": "Los Carrera 523, La Serena"
+    },
+    "vendedor": "Andrés Castillo Díaz",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 2,
+      "unidad": "Saco",
+      "precio_unitario": 15950,
+      "total": 31900
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 13300,
+      "total": 79800
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 11650,
+      "total": 46600
+    },
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 11450,
+      "total": 68700
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 11,
+      "unidad": "Unid.",
+      "precio_unitario": 4250,
+      "total": 46750
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 7000,
+      "total": 35000
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 15900,
+      "total": 31800
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 2,
+      "unidad": "Bolsa",
+      "precio_unitario": 3650,
+      "total": 7300
+    },
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 15900,
+      "total": 79500
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 12,
+      "unidad": "Kg",
+      "precio_unitario": 2450,
+      "total": 29400
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 5600,
+      "total": 33600
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 17,
+      "unidad": "Unid.",
+      "precio_unitario": 2150,
+      "total": 36550
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 526900,
+    "iva_19": 100111,
+    "total": 627011
+  }
+}

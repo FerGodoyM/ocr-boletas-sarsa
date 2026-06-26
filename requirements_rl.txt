@@ -1,0 +1,6 @@
+gymnasium
+easyocr
+opencv-python
+numpy
+matplotlib
+pytesseract

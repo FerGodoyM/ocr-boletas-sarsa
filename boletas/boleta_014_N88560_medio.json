@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_014_N88560_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": 1.786,
+    "generado_en": "2026-06-10T17:07:17"
+  },
+  "encabezado": {
+    "numero_boleta": "088560",
+    "fecha_emision": "05/02/2025",
+    "fecha_vence": "05/03/2025",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Bistró Los Aromos",
+      "rut": "16.789.012-4",
+      "direccion": "Av. El Santo 312, La Serena"
+    },
+    "vendedor": "Andrés Castillo Díaz",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 7050,
+      "total": 21150
+    },
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 15700,
+      "total": 62800
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 7250,
+      "total": 36250
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 2,
+      "unidad": "Saco",
+      "precio_unitario": 12800,
+      "total": 25600
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 4350,
+      "total": 13050
+    },
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 10450,
+      "total": 41800
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 7,
+      "unidad": "Bandej",
+      "precio_unitario": 10150,
+      "total": 71050
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 4300,
+      "total": 25800
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 6,
+      "unidad": "Saco",
+      "precio_unitario": 18350,
+      "total": 110100
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 407600,
+    "iva_19": 77444,
+    "total": 485044
+  }
+}

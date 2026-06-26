@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_016_N31589_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": 0.199,
+    "generado_en": "2026-06-10T17:07:19"
+  },
+  "encabezado": {
+    "numero_boleta": "031589",
+    "fecha_emision": "22/07/2026",
+    "fecha_vence": "22/08/2026",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 9100,
+      "total": 18200
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 7,
+      "unidad": "Bolsa",
+      "precio_unitario": 11400,
+      "total": 79800
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 11,
+      "unidad": "Kg",
+      "precio_unitario": 2150,
+      "total": 23650
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 13,
+      "unidad": "Unid.",
+      "precio_unitario": 400,
+      "total": 5200
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 3,
+      "unidad": "Saco",
+      "precio_unitario": 13500,
+      "total": 40500
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 167350,
+    "iva_19": 31796,
+    "total": 199146
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_198_N27273_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.203,
+    "generado_en": "2026-06-10T17:11:38"
+  },
+  "encabezado": {
+    "numero_boleta": "027273",
+    "fecha_emision": "24/10/2025",
+    "fecha_vence": "24/11/2025",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Restaurante El Rincón del Sabor",
+      "rut": "12.345.678-9",
+      "direccion": "Los Carrera 523, La Serena"
+    },
+    "vendedor": "Gabriela Muñoz Torres",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 5100,
+      "total": 5100
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 11,
+      "unidad": "Kg",
+      "precio_unitario": 2000,
+      "total": 22000
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 2,
+      "unidad": "Bandej",
+      "precio_unitario": 13600,
+      "total": 27200
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 23750,
+      "total": 142500
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 34,
+      "unidad": "Unid.",
+      "precio_unitario": 2200,
+      "total": 74800
+    },
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 9650,
+      "total": 19300
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 8350,
+      "total": 50100
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 4,
+      "unidad": "Paq.",
+      "precio_unitario": 3500,
+      "total": 14000
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 4350,
+      "total": 26100
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 6,
+      "unidad": "Bandej",
+      "precio_unitario": 11050,
+      "total": 66300
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 7,
+      "unidad": "Caja",
+      "precio_unitario": 5200,
+      "total": 36400
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 8,
+      "unidad": "Bolsa",
+      "precio_unitario": 3000,
+      "total": 24000
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 4550,
+      "total": 13650
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 521450,
+    "iva_19": 99076,
+    "total": 620526
+  }
+}

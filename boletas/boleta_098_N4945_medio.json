@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_098_N4945_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -1.955,
+    "generado_en": "2026-06-10T17:09:16"
+  },
+  "encabezado": {
+    "numero_boleta": "004945",
+    "fecha_emision": "21/07/2026",
+    "fecha_vence": "21/08/2026",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 5650,
+      "total": 33900
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 22750,
+      "total": 113750
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 7,
+      "unidad": "Bolsa",
+      "precio_unitario": 9300,
+      "total": 65100
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 10000,
+      "total": 60000
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 11550,
+      "total": 57750
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 9200,
+      "total": 55200
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 2,
+      "unidad": "Bandej",
+      "precio_unitario": 15600,
+      "total": 31200
+    },
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 12150,
+      "total": 12150
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 429050,
+    "iva_19": 81520,
+    "total": 510570
+  }
+}

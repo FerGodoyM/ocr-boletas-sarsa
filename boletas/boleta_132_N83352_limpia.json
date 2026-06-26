@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_132_N83352_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": -0.024,
+    "generado_en": "2026-06-10T17:10:04"
+  },
+  "encabezado": {
+    "numero_boleta": "083352",
+    "fecha_emision": "05/06/2026",
+    "fecha_vence": "05/07/2026",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Contado",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 11050,
+      "total": 55250
+    },
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 11500,
+      "total": 69000
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 11,
+      "unidad": "Bandej",
+      "precio_unitario": 12800,
+      "total": 140800
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 2,
+      "unidad": "Bolsa",
+      "precio_unitario": 7650,
+      "total": 15300
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 280350,
+    "iva_19": 53266,
+    "total": 333616
+  }
+}

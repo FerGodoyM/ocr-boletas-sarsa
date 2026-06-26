@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_053_N47133_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": -1.807,
+    "generado_en": "2026-06-10T17:08:11"
+  },
+  "encabezado": {
+    "numero_boleta": "047133",
+    "fecha_emision": "17/11/2025",
+    "fecha_vence": "17/12/2025",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 5,
+      "unidad": "Saco",
+      "precio_unitario": 18800,
+      "total": 94000
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 8,
+      "unidad": "Caja",
+      "precio_unitario": 6200,
+      "total": 49600
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 7150,
+      "total": 28600
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 9950,
+      "total": 9950
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 8100,
+      "total": 64800
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 3,
+      "unidad": "Bandej",
+      "precio_unitario": 11900,
+      "total": 35700
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 9,
+      "unidad": "Kg",
+      "precio_unitario": 2700,
+      "total": 24300
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 306950,
+    "iva_19": 58320,
+    "total": 365270
+  }
+}

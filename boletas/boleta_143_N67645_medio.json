@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_143_N67645_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": 0.824,
+    "generado_en": "2026-06-10T17:10:19"
+  },
+  "encabezado": {
+    "numero_boleta": "067645",
+    "fecha_emision": "15/02/2026",
+    "fecha_vence": "15/03/2026",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Gabriela Muñoz Torres",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 10500,
+      "total": 31500
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 8150,
+      "total": 16300
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 11800,
+      "total": 35400
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 27,
+      "unidad": "Unid.",
+      "precio_unitario": 2100,
+      "total": 56700
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 5850,
+      "total": 5850
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 21,
+      "unidad": "Unid.",
+      "precio_unitario": 1250,
+      "total": 26250
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 11,
+      "unidad": "Caja",
+      "precio_unitario": 5700,
+      "total": 62700
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 4900,
+      "total": 39200
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 273900,
+    "iva_19": 52041,
+    "total": 325941
+  }
+}

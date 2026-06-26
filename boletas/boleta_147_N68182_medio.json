@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_147_N68182_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -1.804,
+    "generado_en": "2026-06-10T17:10:25"
+  },
+  "encabezado": {
+    "numero_boleta": "068182",
+    "fecha_emision": "13/05/2025",
+    "fecha_vence": "13/06/2025",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 9000,
+      "total": 45000
+    },
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 7,
+      "unidad": "Caja",
+      "precio_unitario": 10750,
+      "total": 75250
+    },
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 12200,
+      "total": 36600
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 11,
+      "unidad": "Unid.",
+      "precio_unitario": 450,
+      "total": 4950
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 2,
+      "unidad": "Saco",
+      "precio_unitario": 24800,
+      "total": 49600
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 6450,
+      "total": 25800
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 9,
+      "unidad": "Bolsa",
+      "precio_unitario": 3850,
+      "total": 34650
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 12,
+      "unidad": "Unid.",
+      "precio_unitario": 2200,
+      "total": 26400
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 23100,
+      "total": 46200
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 4550,
+      "total": 22750
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 5,
+      "unidad": "Kg",
+      "precio_unitario": 2100,
+      "total": 10500
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 6100,
+      "total": 36600
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 414300,
+    "iva_19": 78717,
+    "total": 493017
+  }
+}

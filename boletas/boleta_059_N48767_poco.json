@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_059_N48767_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.349,
+    "generado_en": "2026-06-10T17:08:20"
+  },
+  "encabezado": {
+    "numero_boleta": "048767",
+    "fecha_emision": "23/08/2026",
+    "fecha_vence": "23/09/2026",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 6450,
+      "total": 25800
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 17200,
+      "total": 68800
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 15,
+      "unidad": "Unid.",
+      "precio_unitario": 500,
+      "total": 7500
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 10,
+      "unidad": "Caja",
+      "precio_unitario": 10100,
+      "total": 101000
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 203100,
+    "iva_19": 38589,
+    "total": 241689
+  }
+}

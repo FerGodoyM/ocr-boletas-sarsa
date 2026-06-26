@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_052_N33778_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": 1.11,
+    "generado_en": "2026-06-10T17:08:10"
+  },
+  "encabezado": {
+    "numero_boleta": "033778",
+    "fecha_emision": "20/10/2025",
+    "fecha_vence": "20/11/2025",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Restaurante El Rincón del Sabor",
+      "rut": "12.345.678-9",
+      "direccion": "Los Carrera 523, La Serena"
+    },
+    "vendedor": "Andrés Castillo Díaz",
+    "condicion_pago": "Contado",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 23,
+      "unidad": "Unid.",
+      "precio_unitario": 500,
+      "total": 11500
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 3800,
+      "total": 11400
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 1,
+      "unidad": "Unid.",
+      "precio_unitario": 8100,
+      "total": 8100
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 4850,
+      "total": 29100
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 18,
+      "unidad": "Unid.",
+      "precio_unitario": 2250,
+      "total": 40500
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 5400,
+      "total": 16200
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 116800,
+    "iva_19": 22192,
+    "total": 138992
+  }
+}

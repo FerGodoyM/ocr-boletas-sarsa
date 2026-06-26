@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_015_N52884_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": 3.229,
+    "generado_en": "2026-06-10T17:07:18"
+  },
+  "encabezado": {
+    "numero_boleta": "052884",
+    "fecha_emision": "23/11/2025",
+    "fecha_vence": "23/12/2025",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Contado",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 3,
+      "unidad": "Bandej",
+      "precio_unitario": 12300,
+      "total": 36900
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 4,
+      "unidad": "Saco",
+      "precio_unitario": 23350,
+      "total": 93400
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 9800,
+      "total": 29400
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 9300,
+      "total": 27900
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 6,
+      "unidad": "Saco",
+      "precio_unitario": 19550,
+      "total": 117300
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 304900,
+    "iva_19": 57931,
+    "total": 362831
+  }
+}

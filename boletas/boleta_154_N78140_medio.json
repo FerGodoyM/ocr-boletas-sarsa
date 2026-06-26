@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_154_N78140_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -0.75,
+    "generado_en": "2026-06-10T17:10:35"
+  },
+  "encabezado": {
+    "numero_boleta": "078140",
+    "fecha_emision": "12/03/2025",
+    "fecha_vence": "12/04/2025",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Contado",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 9500,
+      "total": 19000
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 3350,
+      "total": 10050
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 12250,
+      "total": 24500
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 7100,
+      "total": 28400
+    },
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 8,
+      "unidad": "Caja",
+      "precio_unitario": 10800,
+      "total": 86400
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 7500,
+      "total": 15000
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 7050,
+      "total": 14100
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 3,
+      "unidad": "Kg",
+      "precio_unitario": 2750,
+      "total": 8250
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 11,
+      "unidad": "Bolsa",
+      "precio_unitario": 3800,
+      "total": 41800
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 14200,
+      "total": 42600
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 3550,
+      "total": 14200
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 8400,
+      "total": 50400
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 354700,
+    "iva_19": 67393,
+    "total": 422093
+  }
+}

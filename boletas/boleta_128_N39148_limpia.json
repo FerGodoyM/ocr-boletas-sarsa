@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_128_N39148_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": -0.153,
+    "generado_en": "2026-06-10T17:09:58"
+  },
+  "encabezado": {
+    "numero_boleta": "039148",
+    "fecha_emision": "25/02/2026",
+    "fecha_vence": "25/03/2026",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Gabriela Muñoz Torres",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 18550,
+      "total": 92750
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 8,
+      "unidad": "Bandej",
+      "precio_unitario": 11200,
+      "total": 89600
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 2,
+      "unidad": "Bolsa",
+      "precio_unitario": 7050,
+      "total": 14100
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 3,
+      "unidad": "Bandej",
+      "precio_unitario": 12800,
+      "total": 38400
+    },
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 8500,
+      "total": 34000
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 268850,
+    "iva_19": 51082,
+    "total": 319932
+  }
+}

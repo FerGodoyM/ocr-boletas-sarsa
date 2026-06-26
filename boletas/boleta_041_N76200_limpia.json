@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_041_N76200_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": -0.08,
+    "generado_en": "2026-06-10T17:07:54"
+  },
+  "encabezado": {
+    "numero_boleta": "076200",
+    "fecha_emision": "16/03/2026",
+    "fecha_vence": "16/04/2026",
+    "proveedor": {
+      "nombre": "Comercial Frigorífico Central S.A.",
+      "rut": "78.234.567-3",
+      "direccion": "Ruta 5 Norte Km 12, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Bistró Los Aromos",
+      "rut": "16.789.012-4",
+      "direccion": "Av. El Santo 312, La Serena"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 2,
+      "unidad": "Bolsa",
+      "precio_unitario": 3500,
+      "total": 7000
+    },
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 7,
+      "unidad": "Caja",
+      "precio_unitario": 11750,
+      "total": 82250
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 11,
+      "unidad": "Bandej",
+      "precio_unitario": 10900,
+      "total": 119900
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 5550,
+      "total": 33300
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 7,
+      "unidad": "Saco",
+      "precio_unitario": 13350,
+      "total": 93450
+    },
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 9700,
+      "total": 58200
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 6700,
+      "total": 13400
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 4950,
+      "total": 39600
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 4400,
+      "total": 8800
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 8200,
+      "total": 57400
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 27800,
+      "total": 27800
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 1,
+      "unidad": "Unid.",
+      "precio_unitario": 8850,
+      "total": 8850
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 8,
+      "unidad": "Bolsa",
+      "precio_unitario": 3250,
+      "total": 26000
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 575950,
+    "iva_19": 109430,
+    "total": 685380
+  }
+}

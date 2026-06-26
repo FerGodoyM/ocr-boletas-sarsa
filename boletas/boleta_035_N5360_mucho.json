@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_035_N5360_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": 3.603,
+    "generado_en": "2026-06-10T17:07:46"
+  },
+  "encabezado": {
+    "numero_boleta": "005360",
+    "fecha_emision": "14/05/2026",
+    "fecha_vence": "14/06/2026",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Andrés Castillo Díaz",
+    "condicion_pago": "Contado",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 7900,
+      "total": 15800
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 8,
+      "unidad": "Bolsa",
+      "precio_unitario": 4700,
+      "total": 37600
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 6950,
+      "total": 13900
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 3750,
+      "total": 18750
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 7,
+      "unidad": "Bolsa",
+      "precio_unitario": 9050,
+      "total": 63350
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 149400,
+    "iva_19": 28386,
+    "total": 177786
+  }
+}

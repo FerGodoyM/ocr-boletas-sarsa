@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_136_N67911_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": -0.011,
+    "generado_en": "2026-06-10T17:10:09"
+  },
+  "encabezado": {
+    "numero_boleta": "067911",
+    "fecha_emision": "19/03/2026",
+    "fecha_vence": "19/04/2026",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 6250,
+      "total": 43750
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 10,
+      "unidad": "Caja",
+      "precio_unitario": 8150,
+      "total": 81500
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 16250,
+      "total": 32500
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 8,
+      "unidad": "Bolsa",
+      "precio_unitario": 11100,
+      "total": 88800
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 2,
+      "unidad": "Bolsa",
+      "precio_unitario": 11800,
+      "total": 23600
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 1200,
+      "total": 7200
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 5,
+      "unidad": "Paq.",
+      "precio_unitario": 3450,
+      "total": 17250
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 4,
+      "unidad": "Bandej",
+      "precio_unitario": 16600,
+      "total": 66400
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 361000,
+    "iva_19": 68590,
+    "total": 429590
+  }
+}

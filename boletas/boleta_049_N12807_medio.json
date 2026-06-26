@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_049_N12807_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": 0.313,
+    "generado_en": "2026-06-10T17:08:06"
+  },
+  "encabezado": {
+    "numero_boleta": "012807",
+    "fecha_emision": "20/08/2026",
+    "fecha_vence": "20/09/2026",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 10600,
+      "total": 31800
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 5,
+      "unidad": "Saco",
+      "precio_unitario": 20850,
+      "total": 104250
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 5,
+      "unidad": "Bandej",
+      "precio_unitario": 13950,
+      "total": 69750
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 11800,
+      "total": 11800
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 2000,
+      "total": 12000
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 7,
+      "unidad": "Bandej",
+      "precio_unitario": 11500,
+      "total": 80500
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 4450,
+      "total": 22250
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 10050,
+      "total": 30150
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 3650,
+      "total": 7300
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 5050,
+      "total": 30300
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 8000,
+      "total": 24000
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 14300,
+      "total": 57200
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 481300,
+    "iva_19": 91447,
+    "total": 572747
+  }
+}

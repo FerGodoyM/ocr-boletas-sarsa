@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_085_N55023_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.491,
+    "generado_en": "2026-06-10T17:08:57"
+  },
+  "encabezado": {
+    "numero_boleta": "055023",
+    "fecha_emision": "26/11/2025",
+    "fecha_vence": "26/12/2025",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Andrés Castillo Díaz",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 23400,
+      "total": 93600
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 3850,
+      "total": 19250
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 4,
+      "unidad": "Bolsa",
+      "precio_unitario": 13300,
+      "total": 53200
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 10,
+      "unidad": "Unid.",
+      "precio_unitario": 3300,
+      "total": 33000
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 4,
+      "unidad": "Saco",
+      "precio_unitario": 22750,
+      "total": 91000
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 8300,
+      "total": 66400
+    },
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 13650,
+      "total": 54600
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 8500,
+      "total": 25500
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 10,
+      "unidad": "Bandej",
+      "precio_unitario": 10600,
+      "total": 106000
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 7000,
+      "total": 7000
+    },
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 10200,
+      "total": 51000
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 600550,
+    "iva_19": 114104,
+    "total": 714654
+  }
+}

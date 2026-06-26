@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_185_N98387_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -0.246,
+    "generado_en": "2026-06-10T17:11:20"
+  },
+  "encabezado": {
+    "numero_boleta": "098387",
+    "fecha_emision": "11/03/2025",
+    "fecha_vence": "11/04/2025",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 15000,
+      "total": 90000
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 5,
+      "unidad": "Bandej",
+      "precio_unitario": 12500,
+      "total": 62500
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 6,
+      "unidad": "Paq.",
+      "precio_unitario": 4050,
+      "total": 24300
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 24,
+      "unidad": "Unid.",
+      "precio_unitario": 550,
+      "total": 13200
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 3,
+      "unidad": "Saco",
+      "precio_unitario": 14400,
+      "total": 43200
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 7700,
+      "total": 30800
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 2,
+      "unidad": "Bolsa",
+      "precio_unitario": 7950,
+      "total": 15900
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 4800,
+      "total": 9600
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 289500,
+    "iva_19": 55005,
+    "total": 344505
+  }
+}

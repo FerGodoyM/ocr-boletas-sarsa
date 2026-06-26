@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_144_N94610_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": -0.181,
+    "generado_en": "2026-06-10T17:10:21"
+  },
+  "encabezado": {
+    "numero_boleta": "094610",
+    "fecha_emision": "10/09/2025",
+    "fecha_vence": "10/10/2025",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Contado",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 9350,
+      "total": 28050
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 13950,
+      "total": 83700
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 8150,
+      "total": 16300
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 8800,
+      "total": 26400
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 20850,
+      "total": 83400
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 19,
+      "unidad": "Unid.",
+      "precio_unitario": 1250,
+      "total": 23750
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 4,
+      "unidad": "Saco",
+      "precio_unitario": 20800,
+      "total": 83200
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 11150,
+      "total": 66900
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 411700,
+    "iva_19": 78223,
+    "total": 489923
+  }
+}

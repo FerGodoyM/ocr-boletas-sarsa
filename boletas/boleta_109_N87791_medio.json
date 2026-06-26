@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_109_N87791_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": 0.722,
+    "generado_en": "2026-06-10T17:09:32"
+  },
+  "encabezado": {
+    "numero_boleta": "087791",
+    "fecha_emision": "22/07/2026",
+    "fecha_vence": "22/08/2026",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Contado",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 8350,
+      "total": 41750
+    },
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 10500,
+      "total": 42000
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 8200,
+      "total": 49200
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 8,
+      "unidad": "Bandej",
+      "precio_unitario": 14950,
+      "total": 119600
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 8,
+      "unidad": "Caja",
+      "precio_unitario": 8300,
+      "total": 66400
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 318950,
+    "iva_19": 60600,
+    "total": 379550
+  }
+}

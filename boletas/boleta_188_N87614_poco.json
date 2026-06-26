@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_188_N87614_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.49,
+    "generado_en": "2026-06-10T17:11:24"
+  },
+  "encabezado": {
+    "numero_boleta": "087614",
+    "fecha_emision": "20/12/2026",
+    "fecha_vence": "20/01/2027",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Restaurante El Rincón del Sabor",
+      "rut": "12.345.678-9",
+      "direccion": "Los Carrera 523, La Serena"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Contado",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 5,
+      "unidad": "Bandej",
+      "precio_unitario": 10550,
+      "total": 52750
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 7,
+      "unidad": "Bandej",
+      "precio_unitario": 16400,
+      "total": 114800
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 5900,
+      "total": 17700
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 8,
+      "unidad": "Bolsa",
+      "precio_unitario": 5350,
+      "total": 42800
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 9350,
+      "total": 28050
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 8,
+      "unidad": "Bolsa",
+      "precio_unitario": 3400,
+      "total": 27200
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 15700,
+      "total": 62800
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 5,
+      "unidad": "Saco",
+      "precio_unitario": 11550,
+      "total": 57750
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 9550,
+      "total": 47750
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 25,
+      "unidad": "Unid.",
+      "precio_unitario": 2300,
+      "total": 57500
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 3950,
+      "total": 31600
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 12450,
+      "total": 24900
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 22850,
+      "total": 114250
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 679850,
+    "iva_19": 129172,
+    "total": 809022
+  }
+}

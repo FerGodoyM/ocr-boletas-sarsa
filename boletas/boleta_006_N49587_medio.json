@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_006_N49587_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -0.314,
+    "generado_en": "2026-06-10T17:07:04"
+  },
+  "encabezado": {
+    "numero_boleta": "049587",
+    "fecha_emision": "18/08/2026",
+    "fecha_vence": "18/09/2026",
+    "proveedor": {
+      "nombre": "Comercial Frigorífico Central S.A.",
+      "rut": "78.234.567-3",
+      "direccion": "Ruta 5 Norte Km 12, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Contado",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 12850,
+      "total": 77100
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 27900,
+      "total": 27900
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 10300,
+      "total": 41200
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 4900,
+      "total": 19600
+    },
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 11400,
+      "total": 22800
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 2,
+      "unidad": "Bandej",
+      "precio_unitario": 13700,
+      "total": 27400
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 13,
+      "unidad": "Caja",
+      "precio_unitario": 5000,
+      "total": 65000
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 2,
+      "unidad": "Saco",
+      "precio_unitario": 21800,
+      "total": 43600
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 4,
+      "unidad": "Bolsa",
+      "precio_unitario": 15100,
+      "total": 60400
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 3600,
+      "total": 25200
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 8950,
+      "total": 17900
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 428100,
+    "iva_19": 81339,
+    "total": 509439
+  }
+}

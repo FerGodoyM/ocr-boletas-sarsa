@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_171_N94165_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.621,
+    "generado_en": "2026-06-10T17:11:00"
+  },
+  "encabezado": {
+    "numero_boleta": "094165",
+    "fecha_emision": "12/03/2026",
+    "fecha_vence": "12/04/2026",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 13000,
+      "total": 78000
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 4100,
+      "total": 12300
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 12900,
+      "total": 64500
+    },
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 8950,
+      "total": 44750
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 9250,
+      "total": 46250
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 24750,
+      "total": 74250
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 320050,
+    "iva_19": 60810,
+    "total": 380860
+  }
+}

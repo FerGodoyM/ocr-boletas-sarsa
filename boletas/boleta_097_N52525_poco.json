@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_097_N52525_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": 0.749,
+    "generado_en": "2026-06-10T17:09:14"
+  },
+  "encabezado": {
+    "numero_boleta": "052525",
+    "fecha_emision": "18/03/2025",
+    "fecha_vence": "18/04/2025",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Restaurante El Rincón del Sabor",
+      "rut": "12.345.678-9",
+      "direccion": "Los Carrera 523, La Serena"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 21200,
+      "total": 106000
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 5700,
+      "total": 34200
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 15350,
+      "total": 15350
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 23000,
+      "total": 69000
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 8,
+      "unidad": "Paq.",
+      "precio_unitario": 2950,
+      "total": 23600
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 248150,
+    "iva_19": 47148,
+    "total": 295298
+  }
+}

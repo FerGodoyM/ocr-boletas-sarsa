@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_063_N38359_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": 2.762,
+    "generado_en": "2026-06-10T17:08:26"
+  },
+  "encabezado": {
+    "numero_boleta": "038359",
+    "fecha_emision": "01/12/2025",
+    "fecha_vence": "01/01/2026",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 3,
+      "unidad": "Bandej",
+      "precio_unitario": 16200,
+      "total": 48600
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 3,
+      "unidad": "Kg",
+      "precio_unitario": 2050,
+      "total": 6150
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 5350,
+      "total": 26750
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 1,
+      "unidad": "Unid.",
+      "precio_unitario": 6900,
+      "total": 6900
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 14750,
+      "total": 29500
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 8500,
+      "total": 51000
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 19,
+      "unidad": "Unid.",
+      "precio_unitario": 1300,
+      "total": 24700
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 11,
+      "unidad": "Bolsa",
+      "precio_unitario": 3200,
+      "total": 35200
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 8,
+      "unidad": "Bolsa",
+      "precio_unitario": 10300,
+      "total": 82400
+    },
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 10100,
+      "total": 50500
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 8,
+      "unidad": "Bolsa",
+      "precio_unitario": 5000,
+      "total": 40000
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 13400,
+      "total": 67000
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 468700,
+    "iva_19": 89053,
+    "total": 557753
+  }
+}

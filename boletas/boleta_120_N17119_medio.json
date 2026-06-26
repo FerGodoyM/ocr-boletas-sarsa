@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_120_N17119_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -0.831,
+    "generado_en": "2026-06-10T17:09:47"
+  },
+  "encabezado": {
+    "numero_boleta": "017119",
+    "fecha_emision": "24/04/2025",
+    "fecha_vence": "24/05/2025",
+    "proveedor": {
+      "nombre": "Comercial Frigorífico Central S.A.",
+      "rut": "78.234.567-3",
+      "direccion": "Ruta 5 Norte Km 12, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Contado",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 5950,
+      "total": 35700
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 5300,
+      "total": 31800
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 21900,
+      "total": 87600
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 3600,
+      "total": 14400
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 6,
+      "unidad": "Saco",
+      "precio_unitario": 13000,
+      "total": 78000
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 9,
+      "unidad": "Bandej",
+      "precio_unitario": 13950,
+      "total": 125550
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 4850,
+      "total": 4850
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 1,
+      "unidad": "Saco",
+      "precio_unitario": 24400,
+      "total": 24400
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 11700,
+      "total": 58500
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 23200,
+      "total": 69600
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 7750,
+      "total": 46500
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 576900,
+    "iva_19": 109611,
+    "total": 686511
+  }
+}

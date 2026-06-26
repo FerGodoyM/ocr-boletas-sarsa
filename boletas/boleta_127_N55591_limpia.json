@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_127_N55591_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": 0.076,
+    "generado_en": "2026-06-10T17:09:57"
+  },
+  "encabezado": {
+    "numero_boleta": "055591",
+    "fecha_emision": "13/03/2025",
+    "fecha_vence": "13/04/2025",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 23850,
+      "total": 47700
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 11600,
+      "total": 23200
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 2,
+      "unidad": "Saco",
+      "precio_unitario": 12950,
+      "total": 25900
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 8,
+      "unidad": "Caja",
+      "precio_unitario": 6650,
+      "total": 53200
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 4,
+      "unidad": "Bolsa",
+      "precio_unitario": 4200,
+      "total": 16800
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 166800,
+    "iva_19": 31692,
+    "total": 198492
+  }
+}

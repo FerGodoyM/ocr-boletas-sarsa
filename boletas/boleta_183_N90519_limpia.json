@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_183_N90519_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": -0.151,
+    "generado_en": "2026-06-10T17:11:17"
+  },
+  "encabezado": {
+    "numero_boleta": "090519",
+    "fecha_emision": "27/09/2026",
+    "fecha_vence": "27/10/2026",
+    "proveedor": {
+      "nombre": "Comercial Frigorífico Central S.A.",
+      "rut": "78.234.567-3",
+      "direccion": "Ruta 5 Norte Km 12, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 3,
+      "unidad": "Saco",
+      "precio_unitario": 16400,
+      "total": 49200
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 19,
+      "unidad": "Unid.",
+      "precio_unitario": 1200,
+      "total": 22800
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 6,
+      "unidad": "Bandej",
+      "precio_unitario": 14000,
+      "total": 84000
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 10,
+      "unidad": "Bandej",
+      "precio_unitario": 13800,
+      "total": 138000
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 9700,
+      "total": 19400
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 31,
+      "unidad": "Unid.",
+      "precio_unitario": 2100,
+      "total": 65100
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 10100,
+      "total": 30300
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 3350,
+      "total": 13400
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 7,
+      "unidad": "Saco",
+      "precio_unitario": 14250,
+      "total": 99750
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 7400,
+      "total": 22200
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 9,
+      "unidad": "Bandej",
+      "precio_unitario": 11950,
+      "total": 107550
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 8950,
+      "total": 35800
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 687500,
+    "iva_19": 130625,
+    "total": 818125
+  }
+}

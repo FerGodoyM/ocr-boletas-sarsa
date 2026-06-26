@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_150_N41297_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.053,
+    "generado_en": "2026-06-10T17:10:30"
+  },
+  "encabezado": {
+    "numero_boleta": "041297",
+    "fecha_emision": "24/09/2026",
+    "fecha_vence": "24/10/2026",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Bistró Los Aromos",
+      "rut": "16.789.012-4",
+      "direccion": "Av. El Santo 312, La Serena"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Contado",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 11550,
+      "total": 69300
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 7,
+      "unidad": "Bolsa",
+      "precio_unitario": 3700,
+      "total": 25900
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 8350,
+      "total": 25050
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 2,
+      "unidad": "Bolsa",
+      "precio_unitario": 7850,
+      "total": 15700
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 7900,
+      "total": 63200
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 9800,
+      "total": 19600
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 15,
+      "unidad": "Unid.",
+      "precio_unitario": 400,
+      "total": 6000
+    },
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 9800,
+      "total": 29400
+    },
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 12950,
+      "total": 38850
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 4,
+      "unidad": "Saco",
+      "precio_unitario": 20400,
+      "total": 81600
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 10,
+      "unidad": "Bandej",
+      "precio_unitario": 11600,
+      "total": 116000
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 17450,
+      "total": 69800
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 560400,
+    "iva_19": 106476,
+    "total": 666876
+  }
+}

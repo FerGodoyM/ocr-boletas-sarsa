@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_110_N89925_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": 0.011,
+    "generado_en": "2026-06-10T17:09:33"
+  },
+  "encabezado": {
+    "numero_boleta": "089925",
+    "fecha_emision": "20/01/2025",
+    "fecha_vence": "20/02/2025",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Gabriela Muñoz Torres",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 11250,
+      "total": 22500
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 10,
+      "unidad": "Bandej",
+      "precio_unitario": 12950,
+      "total": 129500
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 10550,
+      "total": 31650
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 8450,
+      "total": 33800
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 12,
+      "unidad": "Kg",
+      "precio_unitario": 1800,
+      "total": 21600
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 11,
+      "unidad": "Caja",
+      "precio_unitario": 5350,
+      "total": 58850
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 4350,
+      "total": 8700
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 12,
+      "unidad": "Bolsa",
+      "precio_unitario": 3100,
+      "total": 37200
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 7050,
+      "total": 49350
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 22550,
+      "total": 67650
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 5400,
+      "total": 16200
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 477000,
+    "iva_19": 90630,
+    "total": 567630
+  }
+}

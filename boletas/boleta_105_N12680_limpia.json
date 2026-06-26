@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_105_N12680_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": 0.088,
+    "generado_en": "2026-06-10T17:09:26"
+  },
+  "encabezado": {
+    "numero_boleta": "012680",
+    "fecha_emision": "05/08/2025",
+    "fecha_vence": "05/09/2025",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Restaurante El Rincón del Sabor",
+      "rut": "12.345.678-9",
+      "direccion": "Los Carrera 523, La Serena"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Contado",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 11250,
+      "total": 11250
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 7300,
+      "total": 51100
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 4,
+      "unidad": "Saco",
+      "precio_unitario": 20050,
+      "total": 80200
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 10,
+      "unidad": "Bandej",
+      "precio_unitario": 12450,
+      "total": 124500
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 7,
+      "unidad": "Bandej",
+      "precio_unitario": 10100,
+      "total": 70700
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 6300,
+      "total": 18900
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 356650,
+    "iva_19": 67764,
+    "total": 424414
+  }
+}

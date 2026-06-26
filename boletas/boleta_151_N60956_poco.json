@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_151_N60956_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.69,
+    "generado_en": "2026-06-10T17:10:31"
+  },
+  "encabezado": {
+    "numero_boleta": "060956",
+    "fecha_emision": "19/12/2025",
+    "fecha_vence": "19/01/2026",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Restaurante El Rincón del Sabor",
+      "rut": "12.345.678-9",
+      "direccion": "Los Carrera 523, La Serena"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 3550,
+      "total": 24850
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 3,
+      "unidad": "Bandej",
+      "precio_unitario": 12300,
+      "total": 36900
+    },
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 11400,
+      "total": 57000
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 9100,
+      "total": 36400
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 5950,
+      "total": 23800
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 3800,
+      "total": 11400
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 190350,
+    "iva_19": 36166,
+    "total": 226516
+  }
+}

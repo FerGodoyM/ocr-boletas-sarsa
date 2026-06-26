@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_192_N29574_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": 0.129,
+    "generado_en": "2026-06-10T17:11:30"
+  },
+  "encabezado": {
+    "numero_boleta": "029574",
+    "fecha_emision": "17/02/2025",
+    "fecha_vence": "17/03/2025",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Restaurante El Rincón del Sabor",
+      "rut": "12.345.678-9",
+      "direccion": "Los Carrera 523, La Serena"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 5,
+      "unidad": "Saco",
+      "precio_unitario": 18350,
+      "total": 91750
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 11,
+      "unidad": "Bandej",
+      "precio_unitario": 10000,
+      "total": 110000
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 5450,
+      "total": 21800
+    },
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 11000,
+      "total": 33000
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 8,
+      "unidad": "Bandej",
+      "precio_unitario": 12550,
+      "total": 100400
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 25300,
+      "total": 25300
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 7800,
+      "total": 23400
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 7750,
+      "total": 15500
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 5500,
+      "total": 22000
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 9250,
+      "total": 27750
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 470900,
+    "iva_19": 89471,
+    "total": 560371
+  }
+}

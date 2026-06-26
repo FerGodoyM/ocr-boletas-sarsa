@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_028_N5371_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -1.317,
+    "generado_en": "2026-06-10T17:07:36"
+  },
+  "encabezado": {
+    "numero_boleta": "005371",
+    "fecha_emision": "19/12/2025",
+    "fecha_vence": "19/01/2026",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Andrés Castillo Díaz",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 16000,
+      "total": 16000
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 9,
+      "unidad": "Unid.",
+      "precio_unitario": 4300,
+      "total": 38700
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 6,
+      "unidad": "Saco",
+      "precio_unitario": 14050,
+      "total": 84300
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 6050,
+      "total": 12100
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 7650,
+      "total": 22950
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 7900,
+      "total": 15800
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 189850,
+    "iva_19": 36072,
+    "total": 225922
+  }
+}

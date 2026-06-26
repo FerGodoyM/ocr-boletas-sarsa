@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_100_N21266_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -0.592,
+    "generado_en": "2026-06-10T17:09:19"
+  },
+  "encabezado": {
+    "numero_boleta": "021266",
+    "fecha_emision": "05/09/2025",
+    "fecha_vence": "05/10/2025",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 5900,
+      "total": 29500
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 5100,
+      "total": 20400
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 8150,
+      "total": 40750
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 8700,
+      "total": 34800
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 8,
+      "unidad": "Bandej",
+      "precio_unitario": 14150,
+      "total": 113200
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 16700,
+      "total": 50100
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 10,
+      "unidad": "Unid.",
+      "precio_unitario": 550,
+      "total": 5500
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 15,
+      "unidad": "Unid.",
+      "precio_unitario": 2300,
+      "total": 34500
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 328750,
+    "iva_19": 62462,
+    "total": 391212
+  }
+}

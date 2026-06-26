@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_168_N43721_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": 0.193,
+    "generado_en": "2026-06-10T17:10:56"
+  },
+  "encabezado": {
+    "numero_boleta": "043721",
+    "fecha_emision": "12/06/2025",
+    "fecha_vence": "12/07/2025",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 11,
+      "unidad": "Kg",
+      "precio_unitario": 2200,
+      "total": 24200
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 5000,
+      "total": 15000
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 3500,
+      "total": 28000
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 6550,
+      "total": 19650
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 9750,
+      "total": 48750
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 17,
+      "unidad": "Unid.",
+      "precio_unitario": 500,
+      "total": 8500
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 7400,
+      "total": 29600
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 4,
+      "unidad": "Saco",
+      "precio_unitario": 12800,
+      "total": 51200
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 4600,
+      "total": 18400
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 11,
+      "unidad": "Unid.",
+      "precio_unitario": 3650,
+      "total": 40150
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 2,
+      "unidad": "Bandej",
+      "precio_unitario": 15900,
+      "total": 31800
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 315250,
+    "iva_19": 59898,
+    "total": 375148
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_153_N54445_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": 0.035,
+    "generado_en": "2026-06-10T17:10:34"
+  },
+  "encabezado": {
+    "numero_boleta": "054445",
+    "fecha_emision": "17/10/2025",
+    "fecha_vence": "17/11/2025",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 5,
+      "unidad": "Paq.",
+      "precio_unitario": 3900,
+      "total": 19500
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 3400,
+      "total": 13600
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 11,
+      "unidad": "Unid.",
+      "precio_unitario": 400,
+      "total": 4400
+    },
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 15350,
+      "total": 46050
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 3750,
+      "total": 30000
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 10000,
+      "total": 30000
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 5200,
+      "total": 10400
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 5700,
+      "total": 22800
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 9600,
+      "total": 67200
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 7200,
+      "total": 28800
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 272750,
+    "iva_19": 51822,
+    "total": 324572
+  }
+}

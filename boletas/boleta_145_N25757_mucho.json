@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_145_N25757_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": 3.924,
+    "generado_en": "2026-06-10T17:10:22"
+  },
+  "encabezado": {
+    "numero_boleta": "025757",
+    "fecha_emision": "20/09/2026",
+    "fecha_vence": "20/10/2026",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Bistró Los Aromos",
+      "rut": "16.789.012-4",
+      "direccion": "Av. El Santo 312, La Serena"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 10,
+      "unidad": "Unid.",
+      "precio_unitario": 500,
+      "total": 5000
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 8450,
+      "total": 50700
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 9150,
+      "total": 36600
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 7,
+      "unidad": "Caja",
+      "precio_unitario": 9100,
+      "total": 63700
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 156000,
+    "iva_19": 29640,
+    "total": 185640
+  }
+}

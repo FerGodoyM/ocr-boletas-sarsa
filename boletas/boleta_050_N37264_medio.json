@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_050_N37264_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": 2.257,
+    "generado_en": "2026-06-10T17:08:07"
+  },
+  "encabezado": {
+    "numero_boleta": "037264",
+    "fecha_emision": "01/09/2026",
+    "fecha_vence": "01/10/2026",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Contado",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 8300,
+      "total": 33200
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 7950,
+      "total": 15900
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 3,
+      "unidad": "Saco",
+      "precio_unitario": 22600,
+      "total": 67800
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 26,
+      "unidad": "Unid.",
+      "precio_unitario": 2050,
+      "total": 53300
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 9,
+      "unidad": "Bandej",
+      "precio_unitario": 10900,
+      "total": 98100
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 8,
+      "unidad": "Saco",
+      "precio_unitario": 14900,
+      "total": 119200
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 26000,
+      "total": 78000
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 950,
+      "total": 6650
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 9650,
+      "total": 57900
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 9650,
+      "total": 57900
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 587950,
+    "iva_19": 111710,
+    "total": 699660
+  }
+}

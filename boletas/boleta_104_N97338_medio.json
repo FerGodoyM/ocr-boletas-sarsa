@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_104_N97338_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": 2.123,
+    "generado_en": "2026-06-10T17:09:25"
+  },
+  "encabezado": {
+    "numero_boleta": "097338",
+    "fecha_emision": "21/10/2025",
+    "fecha_vence": "21/11/2025",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Gabriela Muñoz Torres",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 10400,
+      "total": 62400
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 9,
+      "unidad": "Bolsa",
+      "precio_unitario": 11500,
+      "total": 103500
+    },
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 11550,
+      "total": 23100
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 9250,
+      "total": 27750
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 9100,
+      "total": 27300
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 26950,
+      "total": 80850
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 8100,
+      "total": 32400
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 15,
+      "unidad": "Caja",
+      "precio_unitario": 5450,
+      "total": 81750
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 7,
+      "unidad": "Bolsa",
+      "precio_unitario": 4600,
+      "total": 32200
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 6500,
+      "total": 19500
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 23300,
+      "total": 46600
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 7300,
+      "total": 29200
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 566550,
+    "iva_19": 107644,
+    "total": 674194
+  }
+}

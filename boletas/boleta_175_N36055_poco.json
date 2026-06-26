@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_175_N36055_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.782,
+    "generado_en": "2026-06-10T17:11:06"
+  },
+  "encabezado": {
+    "numero_boleta": "036055",
+    "fecha_emision": "02/02/2025",
+    "fecha_vence": "02/03/2025",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Contado",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 4,
+      "unidad": "Bandej",
+      "precio_unitario": 10100,
+      "total": 40400
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 550,
+      "total": 3300
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 16050,
+      "total": 16050
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 5750,
+      "total": 23000
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 82750,
+    "iva_19": 15722,
+    "total": 98472
+  }
+}

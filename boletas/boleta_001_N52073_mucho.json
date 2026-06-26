@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_001_N52073_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": -0.171,
+    "generado_en": "2026-06-10T17:06:57"
+  },
+  "encabezado": {
+    "numero_boleta": "052073",
+    "fecha_emision": "09/06/2025",
+    "fecha_vence": "09/07/2025",
+    "proveedor": {
+      "nombre": "Comercial Frigorífico Central S.A.",
+      "rut": "78.234.567-3",
+      "direccion": "Ruta 5 Norte Km 12, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 9500,
+      "total": 28500
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 5050,
+      "total": 15150
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 23500,
+      "total": 47000
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 4,
+      "unidad": "Bolsa",
+      "precio_unitario": 13250,
+      "total": 53000
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 9900,
+      "total": 59400
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 9,
+      "unidad": "Unid.",
+      "precio_unitario": 4400,
+      "total": 39600
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 3,
+      "unidad": "Saco",
+      "precio_unitario": 21950,
+      "total": 65850
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 308500,
+    "iva_19": 58615,
+    "total": 367115
+  }
+}

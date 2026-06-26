@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_101_N47256_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": -0.098,
+    "generado_en": "2026-06-10T17:09:20"
+  },
+  "encabezado": {
+    "numero_boleta": "047256",
+    "fecha_emision": "21/12/2025",
+    "fecha_vence": "21/01/2026",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 18,
+      "unidad": "Unid.",
+      "precio_unitario": 2100,
+      "total": 37800
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 3,
+      "unidad": "Paq.",
+      "precio_unitario": 2850,
+      "total": 8550
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 7,
+      "unidad": "Saco",
+      "precio_unitario": 12400,
+      "total": 86800
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 16700,
+      "total": 33400
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 4,
+      "unidad": "Bandej",
+      "precio_unitario": 10050,
+      "total": 40200
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 4,
+      "unidad": "Bandej",
+      "precio_unitario": 14650,
+      "total": 58600
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 14350,
+      "total": 43050
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 4950,
+      "total": 9900
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 9750,
+      "total": 29250
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 11,
+      "unidad": "Caja",
+      "precio_unitario": 5300,
+      "total": 58300
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 10250,
+      "total": 10250
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 7,
+      "unidad": "Caja",
+      "precio_unitario": 10250,
+      "total": 71750
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 3500,
+      "total": 21000
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 508850,
+    "iva_19": 96682,
+    "total": 605532
+  }
+}

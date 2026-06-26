@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_178_N16597_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": 0.145,
+    "generado_en": "2026-06-10T17:11:10"
+  },
+  "encabezado": {
+    "numero_boleta": "016597",
+    "fecha_emision": "28/11/2025",
+    "fecha_vence": "28/12/2025",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 7,
+      "unidad": "Caja",
+      "precio_unitario": 10400,
+      "total": 72800
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 25400,
+      "total": 76200
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 5,
+      "unidad": "Bandej",
+      "precio_unitario": 13050,
+      "total": 65250
+    },
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 14950,
+      "total": 59800
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 7,
+      "unidad": "Caja",
+      "precio_unitario": 9400,
+      "total": 65800
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 11,
+      "unidad": "Unid.",
+      "precio_unitario": 450,
+      "total": 4950
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 8,
+      "unidad": "Paq.",
+      "precio_unitario": 3950,
+      "total": 31600
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 11250,
+      "total": 56250
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 5850,
+      "total": 46800
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 3250,
+      "total": 16250
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 16900,
+      "total": 50700
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 5350,
+      "total": 26750
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 12,
+      "unidad": "Unid.",
+      "precio_unitario": 1250,
+      "total": 15000
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 588150,
+    "iva_19": 111748,
+    "total": 699898
+  }
+}

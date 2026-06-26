@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_042_N57542_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.147,
+    "generado_en": "2026-06-10T17:07:56"
+  },
+  "encabezado": {
+    "numero_boleta": "057542",
+    "fecha_emision": "13/06/2025",
+    "fecha_vence": "13/07/2025",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Bistró Los Aromos",
+      "rut": "16.789.012-4",
+      "direccion": "Av. El Santo 312, La Serena"
+    },
+    "vendedor": "Andrés Castillo Díaz",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 10950,
+      "total": 32850
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 8,
+      "unidad": "Bolsa",
+      "precio_unitario": 3500,
+      "total": 28000
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 8950,
+      "total": 17900
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 10,
+      "unidad": "Caja",
+      "precio_unitario": 6050,
+      "total": 60500
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 21700,
+      "total": 43400
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 10,
+      "unidad": "Kg",
+      "precio_unitario": 2250,
+      "total": 22500
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 26950,
+      "total": 53900
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 2,
+      "unidad": "Saco",
+      "precio_unitario": 22550,
+      "total": 45100
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 2,
+      "unidad": "Bolsa",
+      "precio_unitario": 11650,
+      "total": 23300
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 327450,
+    "iva_19": 62216,
+    "total": 389666
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_158_N51149_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": -0.043,
+    "generado_en": "2026-06-10T17:10:41"
+  },
+  "encabezado": {
+    "numero_boleta": "051149",
+    "fecha_emision": "21/01/2025",
+    "fecha_vence": "21/02/2025",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Gabriela Muñoz Torres",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 2,
+      "unidad": "Saco",
+      "precio_unitario": 17200,
+      "total": 34400
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 6850,
+      "total": 13700
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 11850,
+      "total": 35550
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 5450,
+      "total": 32700
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 9600,
+      "total": 67200
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 4,
+      "unidad": "Bandej",
+      "precio_unitario": 12500,
+      "total": 50000
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 35,
+      "unidad": "Unid.",
+      "precio_unitario": 2250,
+      "total": 78750
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 4,
+      "unidad": "Saco",
+      "precio_unitario": 24900,
+      "total": 99600
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 26100,
+      "total": 52200
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 4,
+      "unidad": "Bolsa",
+      "precio_unitario": 3800,
+      "total": 15200
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 10500,
+      "total": 21000
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 1,
+      "unidad": "Saco",
+      "precio_unitario": 11100,
+      "total": 11100
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 511400,
+    "iva_19": 97166,
+    "total": 608566
+  }
+}

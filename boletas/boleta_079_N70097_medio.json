@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_079_N70097_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -0.041,
+    "generado_en": "2026-06-10T17:08:48"
+  },
+  "encabezado": {
+    "numero_boleta": "070097",
+    "fecha_emision": "18/02/2025",
+    "fecha_vence": "18/03/2025",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Gabriela Muñoz Torres",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 3900,
+      "total": 11700
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 8,
+      "unidad": "Bolsa",
+      "precio_unitario": 13400,
+      "total": 107200
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 9850,
+      "total": 49250
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 5,
+      "unidad": "Bandej",
+      "precio_unitario": 12800,
+      "total": 64000
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 6050,
+      "total": 30250
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 22450,
+      "total": 89800
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 10700,
+      "total": 32100
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 22000,
+      "total": 66000
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 3650,
+      "total": 10950
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 461250,
+    "iva_19": 87638,
+    "total": 548888
+  }
+}

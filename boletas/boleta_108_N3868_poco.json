@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_108_N3868_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.23,
+    "generado_en": "2026-06-10T17:09:31"
+  },
+  "encabezado": {
+    "numero_boleta": "003868",
+    "fecha_emision": "24/08/2026",
+    "fecha_vence": "24/09/2026",
+    "proveedor": {
+      "nombre": "Comercial Frigorífico Central S.A.",
+      "rut": "78.234.567-3",
+      "direccion": "Ruta 5 Norte Km 12, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Bistró Los Aromos",
+      "rut": "16.789.012-4",
+      "direccion": "Av. El Santo 312, La Serena"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Contado",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 24,
+      "unidad": "Unid.",
+      "precio_unitario": 500,
+      "total": 12000
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 8,
+      "unidad": "Bolsa",
+      "precio_unitario": 8050,
+      "total": 64400
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 2,
+      "unidad": "Saco",
+      "precio_unitario": 22150,
+      "total": 44300
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 5450,
+      "total": 10900
+    },
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 15100,
+      "total": 45300
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 176900,
+    "iva_19": 33611,
+    "total": 210511
+  }
+}

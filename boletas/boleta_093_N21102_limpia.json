@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_093_N21102_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": 0.012,
+    "generado_en": "2026-06-10T17:09:09"
+  },
+  "encabezado": {
+    "numero_boleta": "021102",
+    "fecha_emision": "21/09/2025",
+    "fecha_vence": "21/10/2025",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Restaurante El Rincón del Sabor",
+      "rut": "12.345.678-9",
+      "direccion": "Los Carrera 523, La Serena"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 10750,
+      "total": 32250
+    },
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 12550,
+      "total": 37650
+    },
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 14400,
+      "total": 86400
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 4,
+      "unidad": "Saco",
+      "precio_unitario": 23500,
+      "total": 94000
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 250300,
+    "iva_19": 47557,
+    "total": 297857
+  }
+}

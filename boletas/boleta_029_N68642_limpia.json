@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_029_N68642_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": 0.198,
+    "generado_en": "2026-06-10T17:07:38"
+  },
+  "encabezado": {
+    "numero_boleta": "068642",
+    "fecha_emision": "05/09/2025",
+    "fecha_vence": "05/10/2025",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 8900,
+      "total": 35600
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 8950,
+      "total": 44750
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 6800,
+      "total": 40800
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 3150,
+      "total": 18900
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 140050,
+    "iva_19": 26610,
+    "total": 166660
+  }
+}

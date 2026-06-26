@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_089_N31498_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.763,
+    "generado_en": "2026-06-10T17:09:03"
+  },
+  "encabezado": {
+    "numero_boleta": "031498",
+    "fecha_emision": "02/05/2026",
+    "fecha_vence": "02/06/2026",
+    "proveedor": {
+      "nombre": "Comercial Frigorífico Central S.A.",
+      "rut": "78.234.567-3",
+      "direccion": "Ruta 5 Norte Km 12, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Restaurante El Rincón del Sabor",
+      "rut": "12.345.678-9",
+      "direccion": "Los Carrera 523, La Serena"
+    },
+    "vendedor": "Andrés Castillo Díaz",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 10400,
+      "total": 52000
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 10,
+      "unidad": "Caja",
+      "precio_unitario": 8400,
+      "total": 84000
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 3650,
+      "total": 10950
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 12,
+      "unidad": "Kg",
+      "precio_unitario": 2400,
+      "total": 28800
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 5700,
+      "total": 45600
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 2,
+      "unidad": "Paq.",
+      "precio_unitario": 3650,
+      "total": 7300
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 12,
+      "unidad": "Unid.",
+      "precio_unitario": 400,
+      "total": 4800
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 26650,
+      "total": 53300
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 286750,
+    "iva_19": 54482,
+    "total": 341232
+  }
+}

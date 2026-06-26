@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_176_N39630_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": -0.107,
+    "generado_en": "2026-06-10T17:11:07"
+  },
+  "encabezado": {
+    "numero_boleta": "039630",
+    "fecha_emision": "07/08/2025",
+    "fecha_vence": "07/09/2025",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 14100,
+      "total": 70500
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 13300,
+      "total": 66500
+    },
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 9700,
+      "total": 58200
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 19,
+      "unidad": "Unid.",
+      "precio_unitario": 400,
+      "total": 7600
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 12850,
+      "total": 64250
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 5350,
+      "total": 21400
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 9850,
+      "total": 29550
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 13,
+      "unidad": "Unid.",
+      "precio_unitario": 2300,
+      "total": 29900
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 6,
+      "unidad": "Kg",
+      "precio_unitario": 2350,
+      "total": 14100
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 9400,
+      "total": 37600
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 3950,
+      "total": 31600
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 4,
+      "unidad": "Paq.",
+      "precio_unitario": 3000,
+      "total": 12000
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 443200,
+    "iva_19": 84208,
+    "total": 527408
+  }
+}

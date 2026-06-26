@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_157_N7001_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": -4.189,
+    "generado_en": "2026-06-10T17:10:40"
+  },
+  "encabezado": {
+    "numero_boleta": "007001",
+    "fecha_emision": "17/02/2025",
+    "fecha_vence": "17/03/2025",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 2,
+      "unidad": "Bolsa",
+      "precio_unitario": 9400,
+      "total": 18800
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 6,
+      "unidad": "Saco",
+      "precio_unitario": 15350,
+      "total": 92100
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 21900,
+      "total": 43800
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 7350,
+      "total": 44100
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 7900,
+      "total": 23700
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 11100,
+      "total": 55500
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 2,
+      "unidad": "Bolsa",
+      "precio_unitario": 3500,
+      "total": 7000
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 9,
+      "unidad": "Kg",
+      "precio_unitario": 1850,
+      "total": 16650
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 301650,
+    "iva_19": 57314,
+    "total": 358964
+  }
+}

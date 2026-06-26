@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_077_N97098_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": 0.451,
+    "generado_en": "2026-06-10T17:08:45"
+  },
+  "encabezado": {
+    "numero_boleta": "097098",
+    "fecha_emision": "11/12/2025",
+    "fecha_vence": "11/01/2026",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Gabriela Muñoz Torres",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 10250,
+      "total": 30750
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 8,
+      "unidad": "Bandej",
+      "precio_unitario": 13750,
+      "total": 110000
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 11,
+      "unidad": "Unid.",
+      "precio_unitario": 3650,
+      "total": 40150
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 6,
+      "unidad": "Bandej",
+      "precio_unitario": 13650,
+      "total": 81900
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 9700,
+      "total": 38800
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 2,
+      "unidad": "Bolsa",
+      "precio_unitario": 12150,
+      "total": 24300
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 20950,
+      "total": 125700
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 4750,
+      "total": 28500
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 480100,
+    "iva_19": 91219,
+    "total": 571319
+  }
+}

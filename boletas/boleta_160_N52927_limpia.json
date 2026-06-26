@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_160_N52927_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": -0.023,
+    "generado_en": "2026-06-10T17:10:44"
+  },
+  "encabezado": {
+    "numero_boleta": "052927",
+    "fecha_emision": "02/03/2025",
+    "fecha_vence": "02/04/2025",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 3950,
+      "total": 11850
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 11,
+      "unidad": "Caja",
+      "precio_unitario": 5500,
+      "total": 60500
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 3550,
+      "total": 21300
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 12,
+      "unidad": "Unid.",
+      "precio_unitario": 2400,
+      "total": 28800
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 4700,
+      "total": 28200
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 11650,
+      "total": 58250
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 6700,
+      "total": 33500
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 11550,
+      "total": 11550
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 2,
+      "unidad": "Saco",
+      "precio_unitario": 12900,
+      "total": 25800
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 9,
+      "unidad": "Bolsa",
+      "precio_unitario": 10850,
+      "total": 97650
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 377400,
+    "iva_19": 71706,
+    "total": 449106
+  }
+}

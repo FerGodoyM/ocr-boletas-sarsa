@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_138_N33187_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": 0.368,
+    "generado_en": "2026-06-10T17:10:12"
+  },
+  "encabezado": {
+    "numero_boleta": "033187",
+    "fecha_emision": "09/12/2026",
+    "fecha_vence": "09/01/2027",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 8,
+      "unidad": "Bolsa",
+      "precio_unitario": 4050,
+      "total": 32400
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 15950,
+      "total": 47850
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 15,
+      "unidad": "Unid.",
+      "precio_unitario": 1900,
+      "total": 28500
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 6200,
+      "total": 18600
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 25050,
+      "total": 75150
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 6,
+      "unidad": "Bandej",
+      "precio_unitario": 10950,
+      "total": 65700
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 268200,
+    "iva_19": 50958,
+    "total": 319158
+  }
+}

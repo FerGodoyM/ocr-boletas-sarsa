@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_114_N53692_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": 0.166,
+    "generado_en": "2026-06-10T17:09:39"
+  },
+  "encabezado": {
+    "numero_boleta": "053692",
+    "fecha_emision": "25/01/2025",
+    "fecha_vence": "25/02/2025",
+    "proveedor": {
+      "nombre": "Comercial Frigorífico Central S.A.",
+      "rut": "78.234.567-3",
+      "direccion": "Ruta 5 Norte Km 12, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Contado",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 17200,
+      "total": 17200
+    },
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 12400,
+      "total": 24800
+    },
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 14150,
+      "total": 42450
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 6050,
+      "total": 6050
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 3,
+      "unidad": "Saco",
+      "precio_unitario": 16700,
+      "total": 50100
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 13,
+      "unidad": "Unid.",
+      "precio_unitario": 1250,
+      "total": 16250
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 11200,
+      "total": 22400
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 179250,
+    "iva_19": 34058,
+    "total": 213308
+  }
+}

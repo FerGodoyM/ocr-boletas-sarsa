@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_163_N34906_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": 0.736,
+    "generado_en": "2026-06-10T17:10:48"
+  },
+  "encabezado": {
+    "numero_boleta": "034906",
+    "fecha_emision": "19/11/2026",
+    "fecha_vence": "19/12/2026",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Andrés Castillo Díaz",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 10350,
+      "total": 31050
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 9150,
+      "total": 18300
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 4650,
+      "total": 37200
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 5900,
+      "total": 23600
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 24100,
+      "total": 48200
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 158350,
+    "iva_19": 30086,
+    "total": 188436
+  }
+}

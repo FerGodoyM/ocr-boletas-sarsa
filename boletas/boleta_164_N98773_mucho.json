@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_164_N98773_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": 2.289,
+    "generado_en": "2026-06-10T17:10:50"
+  },
+  "encabezado": {
+    "numero_boleta": "098773",
+    "fecha_emision": "23/03/2026",
+    "fecha_vence": "23/04/2026",
+    "proveedor": {
+      "nombre": "Comercial Frigorífico Central S.A.",
+      "rut": "78.234.567-3",
+      "direccion": "Ruta 5 Norte Km 12, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Contado",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 3550,
+      "total": 17750
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 1,
+      "unidad": "Unid.",
+      "precio_unitario": 8550,
+      "total": 8550
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 4,
+      "unidad": "Bolsa",
+      "precio_unitario": 8450,
+      "total": 33800
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 9,
+      "unidad": "Caja",
+      "precio_unitario": 9400,
+      "total": 84600
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 8950,
+      "total": 53700
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 12,
+      "unidad": "Kg",
+      "precio_unitario": 1850,
+      "total": 22200
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 1,
+      "unidad": "Saco",
+      "precio_unitario": 20300,
+      "total": 20300
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 5450,
+      "total": 16350
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 25650,
+      "total": 76950
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 12,
+      "unidad": "Unid.",
+      "precio_unitario": 3500,
+      "total": 42000
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 4650,
+      "total": 27900
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 404100,
+    "iva_19": 76779,
+    "total": 480879
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_065_N89331_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.003,
+    "generado_en": "2026-06-10T17:08:28"
+  },
+  "encabezado": {
+    "numero_boleta": "089331",
+    "fecha_emision": "18/08/2025",
+    "fecha_vence": "18/09/2025",
+    "proveedor": {
+      "nombre": "Comercial Frigorífico Central S.A.",
+      "rut": "78.234.567-3",
+      "direccion": "Ruta 5 Norte Km 12, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 5,
+      "unidad": "Saco",
+      "precio_unitario": 15950,
+      "total": 79750
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 12,
+      "unidad": "Bolsa",
+      "precio_unitario": 3450,
+      "total": 41400
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 2350,
+      "total": 14100
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 7,
+      "unidad": "Bandej",
+      "precio_unitario": 12400,
+      "total": 86800
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 2,
+      "unidad": "Saco",
+      "precio_unitario": 21950,
+      "total": 43900
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 21700,
+      "total": 43400
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 309350,
+    "iva_19": 58776,
+    "total": 368126
+  }
+}

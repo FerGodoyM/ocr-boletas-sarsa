@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_111_N95465_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": 4.142,
+    "generado_en": "2026-06-10T17:09:35"
+  },
+  "encabezado": {
+    "numero_boleta": "095465",
+    "fecha_emision": "25/09/2025",
+    "fecha_vence": "25/10/2025",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Andrés Castillo Díaz",
+    "condicion_pago": "Contado",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 4400,
+      "total": 22000
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 10,
+      "unidad": "Caja",
+      "precio_unitario": 9100,
+      "total": 91000
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 5,
+      "unidad": "Bandej",
+      "precio_unitario": 10850,
+      "total": 54250
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 10,
+      "unidad": "Bandej",
+      "precio_unitario": 12950,
+      "total": 129500
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 6400,
+      "total": 19200
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 2,
+      "unidad": "Bolsa",
+      "precio_unitario": 4150,
+      "total": 8300
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 9650,
+      "total": 28950
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 2,
+      "unidad": "Bandej",
+      "precio_unitario": 15450,
+      "total": 30900
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 7200,
+      "total": 36000
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 7300,
+      "total": 43800
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 4,
+      "unidad": "Bolsa",
+      "precio_unitario": 7750,
+      "total": 31000
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 494900,
+    "iva_19": 94031,
+    "total": 588931
+  }
+}

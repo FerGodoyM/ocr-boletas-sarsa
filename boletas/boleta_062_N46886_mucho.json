@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_062_N46886_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": -1.725,
+    "generado_en": "2026-06-10T17:08:24"
+  },
+  "encabezado": {
+    "numero_boleta": "046886",
+    "fecha_emision": "17/04/2025",
+    "fecha_vence": "17/05/2025",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 3900,
+      "total": 27300
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 24,
+      "unidad": "Unid.",
+      "precio_unitario": 1350,
+      "total": 32400
+    },
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 8,
+      "unidad": "Caja",
+      "precio_unitario": 9550,
+      "total": 76400
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 4700,
+      "total": 28200
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 10,
+      "unidad": "Bandej",
+      "precio_unitario": 11550,
+      "total": 115500
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 4,
+      "unidad": "Paq.",
+      "precio_unitario": 3750,
+      "total": 15000
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 19,
+      "unidad": "Unid.",
+      "precio_unitario": 1950,
+      "total": 37050
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 9,
+      "unidad": "Bolsa",
+      "precio_unitario": 3350,
+      "total": 30150
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 6850,
+      "total": 27400
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 7,
+      "unidad": "Bolsa",
+      "precio_unitario": 9000,
+      "total": 63000
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 6050,
+      "total": 42350
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 16400,
+      "total": 32800
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 10400,
+      "total": 62400
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 589950,
+    "iva_19": 112090,
+    "total": 702040
+  }
+}

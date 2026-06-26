@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_072_N16830_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": -0.03,
+    "generado_en": "2026-06-10T17:08:39"
+  },
+  "encabezado": {
+    "numero_boleta": "016830",
+    "fecha_emision": "15/01/2026",
+    "fecha_vence": "15/02/2026",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 3,
+      "unidad": "Paq.",
+      "precio_unitario": 4000,
+      "total": 12000
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 3900,
+      "total": 15600
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 5400,
+      "total": 21600
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 18,
+      "unidad": "Unid.",
+      "precio_unitario": 550,
+      "total": 9900
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 1,
+      "unidad": "Saco",
+      "precio_unitario": 21350,
+      "total": 21350
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 4,
+      "unidad": "Bolsa",
+      "precio_unitario": 8200,
+      "total": 32800
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 7200,
+      "total": 28800
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 8850,
+      "total": 44250
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 27800,
+      "total": 83400
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 269700,
+    "iva_19": 51243,
+    "total": 320943
+  }
+}

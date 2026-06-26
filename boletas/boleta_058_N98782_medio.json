@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_058_N98782_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": 1.13,
+    "generado_en": "2026-06-10T17:08:18"
+  },
+  "encabezado": {
+    "numero_boleta": "098782",
+    "fecha_emision": "09/04/2025",
+    "fecha_vence": "09/05/2025",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Gabriela Muñoz Torres",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 3400,
+      "total": 23800
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 3,
+      "unidad": "Saco",
+      "precio_unitario": 19850,
+      "total": 59550
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 11,
+      "unidad": "Unid.",
+      "precio_unitario": 550,
+      "total": 6050
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 6450,
+      "total": 45150
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 9,
+      "unidad": "Caja",
+      "precio_unitario": 9800,
+      "total": 88200
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 17900,
+      "total": 71600
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 6,
+      "unidad": "Saco",
+      "precio_unitario": 12950,
+      "total": 77700
+    },
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 10350,
+      "total": 51750
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 423800,
+    "iva_19": 80522,
+    "total": 504322
+  }
+}

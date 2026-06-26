@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_123_N42604_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": 0.558,
+    "generado_en": "2026-06-10T17:09:51"
+  },
+  "encabezado": {
+    "numero_boleta": "042604",
+    "fecha_emision": "15/07/2025",
+    "fecha_vence": "15/08/2025",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 7,
+      "unidad": "Bandej",
+      "precio_unitario": 16050,
+      "total": 112350
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 10,
+      "unidad": "Unid.",
+      "precio_unitario": 3750,
+      "total": 37500
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 1,
+      "unidad": "Saco",
+      "precio_unitario": 24400,
+      "total": 24400
+    },
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 13500,
+      "total": 27000
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 7800,
+      "total": 46800
+    },
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 13300,
+      "total": 39900
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 5900,
+      "total": 17700
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 7000,
+      "total": 21000
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 10,
+      "unidad": "Bandej",
+      "precio_unitario": 12550,
+      "total": 125500
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 17550,
+      "total": 17550
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 22,
+      "unidad": "Unid.",
+      "precio_unitario": 2150,
+      "total": 47300
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 517000,
+    "iva_19": 98230,
+    "total": 615230
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_055_N91714_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": 0.007,
+    "generado_en": "2026-06-10T17:08:14"
+  },
+  "encabezado": {
+    "numero_boleta": "091714",
+    "fecha_emision": "10/08/2025",
+    "fecha_vence": "10/09/2025",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Contado",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 8550,
+      "total": 34200
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 5,
+      "unidad": "Bandej",
+      "precio_unitario": 12800,
+      "total": 64000
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 9300,
+      "total": 37200
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 7,
+      "unidad": "Caja",
+      "precio_unitario": 5650,
+      "total": 39550
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 9200,
+      "total": 55200
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 17500,
+      "total": 52500
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 2,
+      "unidad": "Paq.",
+      "precio_unitario": 3500,
+      "total": 7000
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 8000,
+      "total": 64000
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 353650,
+    "iva_19": 67194,
+    "total": 420844
+  }
+}

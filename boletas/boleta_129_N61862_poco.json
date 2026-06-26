@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_129_N61862_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": 0.095,
+    "generado_en": "2026-06-10T17:10:00"
+  },
+  "encabezado": {
+    "numero_boleta": "061862",
+    "fecha_emision": "26/10/2026",
+    "fecha_vence": "26/11/2026",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Restaurante El Rincón del Sabor",
+      "rut": "12.345.678-9",
+      "direccion": "Los Carrera 523, La Serena"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Contado",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 5150,
+      "total": 30900
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 8,
+      "unidad": "Caja",
+      "precio_unitario": 8150,
+      "total": 65200
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 23250,
+      "total": 93000
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 20,
+      "unidad": "Unid.",
+      "precio_unitario": 400,
+      "total": 8000
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 6,
+      "unidad": "Saco",
+      "precio_unitario": 18350,
+      "total": 110100
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 2000,
+      "total": 16000
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 5500,
+      "total": 16500
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 4800,
+      "total": 14400
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 7,
+      "unidad": "Paq.",
+      "precio_unitario": 3150,
+      "total": 22050
+    },
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 8900,
+      "total": 26700
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 402850,
+    "iva_19": 76542,
+    "total": 479392
+  }
+}

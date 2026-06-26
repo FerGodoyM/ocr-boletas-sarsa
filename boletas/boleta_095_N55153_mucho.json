@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_095_N55153_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": -1.938,
+    "generado_en": "2026-06-10T17:09:11"
+  },
+  "encabezado": {
+    "numero_boleta": "055153",
+    "fecha_emision": "21/12/2025",
+    "fecha_vence": "21/01/2026",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Restaurante El Rincón del Sabor",
+      "rut": "12.345.678-9",
+      "direccion": "Los Carrera 523, La Serena"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 4350,
+      "total": 26100
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 13450,
+      "total": 40350
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 8,
+      "unidad": "Bandej",
+      "precio_unitario": 11550,
+      "total": 92400
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 24,
+      "unidad": "Unid.",
+      "precio_unitario": 2150,
+      "total": 51600
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 24100,
+      "total": 24100
+    },
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 10600,
+      "total": 10600
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 10,
+      "unidad": "Kg",
+      "precio_unitario": 2700,
+      "total": 27000
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 3,
+      "unidad": "Saco",
+      "precio_unitario": 14850,
+      "total": 44550
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 316700,
+    "iva_19": 60173,
+    "total": 376873
+  }
+}

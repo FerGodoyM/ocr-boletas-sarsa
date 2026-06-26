@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_083_N64988_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -1.09,
+    "generado_en": "2026-06-10T17:08:54"
+  },
+  "encabezado": {
+    "numero_boleta": "064988",
+    "fecha_emision": "03/01/2026",
+    "fecha_vence": "03/02/2026",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Contado",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 9450,
+      "total": 18900
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 1,
+      "unidad": "Saco",
+      "precio_unitario": 13500,
+      "total": 13500
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 4450,
+      "total": 13350
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 12,
+      "unidad": "Unid.",
+      "precio_unitario": 1850,
+      "total": 22200
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 5100,
+      "total": 30600
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 10,
+      "unidad": "Unid.",
+      "precio_unitario": 1300,
+      "total": 13000
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 6150,
+      "total": 18450
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 15800,
+      "total": 31600
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 2,
+      "unidad": "Saco",
+      "precio_unitario": 21950,
+      "total": 43900
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 205500,
+    "iva_19": 39045,
+    "total": 244545
+  }
+}

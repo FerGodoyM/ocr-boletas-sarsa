@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_170_N53597_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": 0.683,
+    "generado_en": "2026-06-10T17:10:59"
+  },
+  "encabezado": {
+    "numero_boleta": "053597",
+    "fecha_emision": "06/06/2025",
+    "fecha_vence": "06/07/2025",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Bistró Los Aromos",
+      "rut": "16.789.012-4",
+      "direccion": "Av. El Santo 312, La Serena"
+    },
+    "vendedor": "Gabriela Muñoz Torres",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 21750,
+      "total": 130500
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 5050,
+      "total": 15150
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 7750,
+      "total": 46500
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 6800,
+      "total": 6800
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 3950,
+      "total": 31600
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 230550,
+    "iva_19": 43804,
+    "total": 274354
+  }
+}

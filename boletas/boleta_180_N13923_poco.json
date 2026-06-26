@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_180_N13923_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.221,
+    "generado_en": "2026-06-10T17:11:13"
+  },
+  "encabezado": {
+    "numero_boleta": "013923",
+    "fecha_emision": "23/09/2025",
+    "fecha_vence": "23/10/2025",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 10800,
+      "total": 32400
+    },
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 14450,
+      "total": 43350
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 15,
+      "unidad": "Caja",
+      "precio_unitario": 5050,
+      "total": 75750
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 9550,
+      "total": 38200
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 189700,
+    "iva_19": 36043,
+    "total": 225743
+  }
+}

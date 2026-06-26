@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_018_N18107_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": -0.077,
+    "generado_en": "2026-06-10T17:07:22"
+  },
+  "encabezado": {
+    "numero_boleta": "018107",
+    "fecha_emision": "02/09/2025",
+    "fecha_vence": "02/10/2025",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Bistró Los Aromos",
+      "rut": "16.789.012-4",
+      "direccion": "Av. El Santo 312, La Serena"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 3500,
+      "total": 21000
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 8,
+      "unidad": "Paq.",
+      "precio_unitario": 3150,
+      "total": 25200
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 7,
+      "unidad": "Caja",
+      "precio_unitario": 6200,
+      "total": 43400
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 4,
+      "unidad": "Saco",
+      "precio_unitario": 13800,
+      "total": 55200
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 144800,
+    "iva_19": 27512,
+    "total": 172312
+  }
+}

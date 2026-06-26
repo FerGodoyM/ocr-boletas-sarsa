@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_023_N59575_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": -1.961,
+    "generado_en": "2026-06-10T17:07:29"
+  },
+  "encabezado": {
+    "numero_boleta": "059575",
+    "fecha_emision": "26/09/2025",
+    "fecha_vence": "26/10/2025",
+    "proveedor": {
+      "nombre": "Comercial Frigorífico Central S.A.",
+      "rut": "78.234.567-3",
+      "direccion": "Ruta 5 Norte Km 12, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Contado",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 16,
+      "unidad": "Caja",
+      "precio_unitario": 5950,
+      "total": 95200
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 7050,
+      "total": 14100
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 6650,
+      "total": 26600
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 17900,
+      "total": 53700
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 189600,
+    "iva_19": 36024,
+    "total": 225624
+  }
+}

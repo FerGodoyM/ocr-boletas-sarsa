@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_057_N86426_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": 1.158,
+    "generado_en": "2026-06-10T17:08:17"
+  },
+  "encabezado": {
+    "numero_boleta": "086426",
+    "fecha_emision": "11/06/2025",
+    "fecha_vence": "11/07/2025",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 6250,
+      "total": 18750
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 5700,
+      "total": 11400
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 13,
+      "unidad": "Caja",
+      "precio_unitario": 6150,
+      "total": 79950
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 6100,
+      "total": 12200
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 7,
+      "unidad": "Bolsa",
+      "precio_unitario": 5200,
+      "total": 36400
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 3,
+      "unidad": "Bandej",
+      "precio_unitario": 10100,
+      "total": 30300
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 189000,
+    "iva_19": 35910,
+    "total": 224910
+  }
+}

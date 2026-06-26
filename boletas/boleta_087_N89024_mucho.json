@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_087_N89024_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": -4.542,
+    "generado_en": "2026-06-10T17:09:00"
+  },
+  "encabezado": {
+    "numero_boleta": "089024",
+    "fecha_emision": "09/06/2026",
+    "fecha_vence": "09/07/2026",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 1,
+      "unidad": "Saco",
+      "precio_unitario": 16850,
+      "total": 16850
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 6250,
+      "total": 31250
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 7700,
+      "total": 15400
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 9000,
+      "total": 36000
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 12,
+      "unidad": "Bandej",
+      "precio_unitario": 10350,
+      "total": 124200
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 12,
+      "unidad": "Caja",
+      "precio_unitario": 6200,
+      "total": 74400
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 8,
+      "unidad": "Caja",
+      "precio_unitario": 10500,
+      "total": 84000
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 8500,
+      "total": 42500
+    },
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 12050,
+      "total": 12050
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 9350,
+      "total": 28050
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 7000,
+      "total": 14000
+    },
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 10850,
+      "total": 43400
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 8,
+      "unidad": "Saco",
+      "precio_unitario": 11400,
+      "total": 91200
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 613300,
+    "iva_19": 116527,
+    "total": 729827
+  }
+}

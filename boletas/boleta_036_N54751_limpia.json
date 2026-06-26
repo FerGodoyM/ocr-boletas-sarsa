@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_036_N54751_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": -0.117,
+    "generado_en": "2026-06-10T17:07:47"
+  },
+  "encabezado": {
+    "numero_boleta": "054751",
+    "fecha_emision": "08/02/2026",
+    "fecha_vence": "08/03/2026",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 23500,
+      "total": 47000
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 11,
+      "unidad": "Kg",
+      "precio_unitario": 2550,
+      "total": 28050
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 19,
+      "unidad": "Unid.",
+      "precio_unitario": 950,
+      "total": 18050
+    },
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 11350,
+      "total": 68100
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 5,
+      "unidad": "Saco",
+      "precio_unitario": 19150,
+      "total": 95750
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 12,
+      "unidad": "Unid.",
+      "precio_unitario": 450,
+      "total": 5400
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 7,
+      "unidad": "Bolsa",
+      "precio_unitario": 10100,
+      "total": 70700
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 7,
+      "unidad": "Bolsa",
+      "precio_unitario": 4150,
+      "total": 29050
+    },
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 12750,
+      "total": 25500
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 17450,
+      "total": 17450
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 7300,
+      "total": 58400
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 463450,
+    "iva_19": 88056,
+    "total": 551506
+  }
+}

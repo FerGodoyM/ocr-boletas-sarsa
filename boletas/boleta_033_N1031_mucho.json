@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_033_N1031_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": 1.042,
+    "generado_en": "2026-06-10T17:07:43"
+  },
+  "encabezado": {
+    "numero_boleta": "001031",
+    "fecha_emision": "18/08/2025",
+    "fecha_vence": "18/09/2025",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Gabriela Muñoz Torres",
+    "condicion_pago": "Contado",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 4,
+      "unidad": "Bolsa",
+      "precio_unitario": 12000,
+      "total": 48000
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 28,
+      "unidad": "Unid.",
+      "precio_unitario": 2150,
+      "total": 60200
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 4,
+      "unidad": "Bolsa",
+      "precio_unitario": 11150,
+      "total": 44600
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 23150,
+      "total": 23150
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 5750,
+      "total": 17250
+    },
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 13250,
+      "total": 66250
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 259450,
+    "iva_19": 49296,
+    "total": 308746
+  }
+}

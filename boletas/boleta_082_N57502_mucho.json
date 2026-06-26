@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_082_N57502_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": -2.808,
+    "generado_en": "2026-06-10T17:08:53"
+  },
+  "encabezado": {
+    "numero_boleta": "057502",
+    "fecha_emision": "15/05/2025",
+    "fecha_vence": "15/06/2025",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Contado",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 9000,
+      "total": 18000
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 7,
+      "unidad": "Kg",
+      "precio_unitario": 1950,
+      "total": 13650
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 7750,
+      "total": 15500
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 12,
+      "unidad": "Unid.",
+      "precio_unitario": 950,
+      "total": 11400
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 2,
+      "unidad": "Saco",
+      "precio_unitario": 13200,
+      "total": 26400
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 3300,
+      "total": 23100
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 4000,
+      "total": 24000
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 4600,
+      "total": 9200
+    },
+    {
+      "codigo": "BEV-001",
+      "descripcion": "Jugo natural naranja 1 lt (caja x12)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 8400,
+      "total": 16800
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 5400,
+      "total": 37800
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 17400,
+      "total": 69600
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 2,
+      "unidad": "Bandej",
+      "precio_unitario": 10650,
+      "total": 21300
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 286750,
+    "iva_19": 54482,
+    "total": 341232
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_044_N52103_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": -5.299,
+    "generado_en": "2026-06-10T17:07:59"
+  },
+  "encabezado": {
+    "numero_boleta": "052103",
+    "fecha_emision": "21/01/2025",
+    "fecha_vence": "21/02/2025",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 5,
+      "unidad": "Bandej",
+      "precio_unitario": 11100,
+      "total": 55500
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 11,
+      "unidad": "Bandej",
+      "precio_unitario": 9650,
+      "total": 106150
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 6,
+      "unidad": "Bandej",
+      "precio_unitario": 12200,
+      "total": 73200
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 12050,
+      "total": 36150
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 7900,
+      "total": 47400
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 5850,
+      "total": 23400
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 10,
+      "unidad": "Unid.",
+      "precio_unitario": 400,
+      "total": 4000
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 9,
+      "unidad": "Unid.",
+      "precio_unitario": 1150,
+      "total": 10350
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 24000,
+      "total": 24000
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 11,
+      "unidad": "Bolsa",
+      "precio_unitario": 3150,
+      "total": 34650
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 16350,
+      "total": 16350
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 431150,
+    "iva_19": 81918,
+    "total": 513068
+  }
+}

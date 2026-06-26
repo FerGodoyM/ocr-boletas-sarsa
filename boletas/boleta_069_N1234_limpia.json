@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_069_N1234_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": -0.167,
+    "generado_en": "2026-06-10T17:08:34"
+  },
+  "encabezado": {
+    "numero_boleta": "001234",
+    "fecha_emision": "28/01/2025",
+    "fecha_vence": "28/02/2025",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 5450,
+      "total": 32700
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 7800,
+      "total": 23400
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 9,
+      "unidad": "Bolsa",
+      "precio_unitario": 9600,
+      "total": 86400
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 5650,
+      "total": 11300
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 24,
+      "unidad": "Unid.",
+      "precio_unitario": 2300,
+      "total": 55200
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 209000,
+    "iva_19": 39710,
+    "total": 248710
+  }
+}

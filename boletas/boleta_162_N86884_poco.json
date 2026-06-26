@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_162_N86884_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.488,
+    "generado_en": "2026-06-10T17:10:47"
+  },
+  "encabezado": {
+    "numero_boleta": "086884",
+    "fecha_emision": "18/06/2025",
+    "fecha_vence": "18/07/2025",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Contado",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 11300,
+      "total": 22600
+    },
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 11150,
+      "total": 33450
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 2,
+      "unidad": "Paq.",
+      "precio_unitario": 3750,
+      "total": 7500
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 5550,
+      "total": 11100
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 9950,
+      "total": 39800
+    },
+    {
+      "codigo": "BEV-004",
+      "descripcion": "Cerveza lager 350ml (caja x24)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 18750,
+      "total": 37500
+    },
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 4,
+      "unidad": "Bolsa",
+      "precio_unitario": 13450,
+      "total": 53800
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 205750,
+    "iva_19": 39092,
+    "total": 244842
+  }
+}

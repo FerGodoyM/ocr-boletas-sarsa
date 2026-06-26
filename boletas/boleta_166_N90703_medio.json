@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_166_N90703_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -0.011,
+    "generado_en": "2026-06-10T17:10:53"
+  },
+  "encabezado": {
+    "numero_boleta": "090703",
+    "fecha_emision": "05/11/2026",
+    "fecha_vence": "05/12/2026",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Restaurante El Rincón del Sabor",
+      "rut": "12.345.678-9",
+      "direccion": "Los Carrera 523, La Serena"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "CAR-004",
+      "descripcion": "Pulpo cocido 1 kg (bolsa)",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 13800,
+      "total": 41400
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 7,
+      "unidad": "Bandej",
+      "precio_unitario": 12050,
+      "total": 84350
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 7450,
+      "total": 14900
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 32,
+      "unidad": "Unid.",
+      "precio_unitario": 2400,
+      "total": 76800
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 10150,
+      "total": 10150
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 227600,
+    "iva_19": 43244,
+    "total": 270844
+  }
+}

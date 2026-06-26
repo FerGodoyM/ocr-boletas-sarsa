@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_146_N61691_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -1.413,
+    "generado_en": "2026-06-10T17:10:24"
+  },
+  "encabezado": {
+    "numero_boleta": "061691",
+    "fecha_emision": "12/07/2026",
+    "fecha_vence": "12/08/2026",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 9100,
+      "total": 36400
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 6800,
+      "total": 20400
+    },
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 6700,
+      "total": 6700
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 8,
+      "unidad": "Caja",
+      "precio_unitario": 6300,
+      "total": 50400
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 3,
+      "unidad": "Paq.",
+      "precio_unitario": 3200,
+      "total": 9600
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 3850,
+      "total": 23100
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 7,
+      "unidad": "Saco",
+      "precio_unitario": 14850,
+      "total": 103950
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 9,
+      "unidad": "Unid.",
+      "precio_unitario": 500,
+      "total": 4500
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 4700,
+      "total": 18800
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 273850,
+    "iva_19": 52032,
+    "total": 325882
+  }
+}

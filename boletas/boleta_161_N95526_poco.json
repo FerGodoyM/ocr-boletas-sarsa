@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_161_N95526_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": 0.316,
+    "generado_en": "2026-06-10T17:10:45"
+  },
+  "encabezado": {
+    "numero_boleta": "095526",
+    "fecha_emision": "14/01/2025",
+    "fecha_vence": "14/02/2025",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Andrés Castillo Díaz",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 9700,
+      "total": 67900
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 3450,
+      "total": 10350
+    },
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 10000,
+      "total": 30000
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 3,
+      "unidad": "Kg",
+      "precio_unitario": 2100,
+      "total": 6300
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 3,
+      "unidad": "Saco",
+      "precio_unitario": 22850,
+      "total": 68550
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 15550,
+      "total": 31100
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 6,
+      "unidad": "Paq.",
+      "precio_unitario": 3350,
+      "total": 20100
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 5300,
+      "total": 26500
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 260800,
+    "iva_19": 49552,
+    "total": 310352
+  }
+}

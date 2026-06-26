@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_187_N42874_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -2.401,
+    "generado_en": "2026-06-10T17:11:23"
+  },
+  "encabezado": {
+    "numero_boleta": "042874",
+    "fecha_emision": "28/10/2026",
+    "fecha_vence": "28/11/2026",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 7,
+      "unidad": "Bolsa",
+      "precio_unitario": 10500,
+      "total": 73500
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 5,
+      "unidad": "Saco",
+      "precio_unitario": 12050,
+      "total": 60250
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 9300,
+      "total": 46500
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 4900,
+      "total": 29400
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 14,
+      "unidad": "Unid.",
+      "precio_unitario": 1350,
+      "total": 18900
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 25300,
+      "total": 50600
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 8,
+      "unidad": "Caja",
+      "precio_unitario": 10750,
+      "total": 86000
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 7250,
+      "total": 36250
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 6300,
+      "total": 37800
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 3550,
+      "total": 14200
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 7450,
+      "total": 22350
+    },
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 13350,
+      "total": 26700
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 6,
+      "unidad": "Paq.",
+      "precio_unitario": 3400,
+      "total": 20400
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 522850,
+    "iva_19": 99342,
+    "total": 622192
+  }
+}

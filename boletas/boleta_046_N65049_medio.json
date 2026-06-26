@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_046_N65049_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": 1.652,
+    "generado_en": "2026-06-10T17:08:01"
+  },
+  "encabezado": {
+    "numero_boleta": "065049",
+    "fecha_emision": "23/11/2025",
+    "fecha_vence": "23/12/2025",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 4900,
+      "total": 14700
+    },
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 7,
+      "unidad": "Bandej",
+      "precio_unitario": 15350,
+      "total": 107450
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 15650,
+      "total": 62600
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 7,
+      "unidad": "Caja",
+      "precio_unitario": 11350,
+      "total": 79450
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 7,
+      "unidad": "Caja",
+      "precio_unitario": 7900,
+      "total": 55300
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 319500,
+    "iva_19": 60705,
+    "total": 380205
+  }
+}

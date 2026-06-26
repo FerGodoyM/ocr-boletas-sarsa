@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_027_N23994_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": -0.151,
+    "generado_en": "2026-06-10T17:07:35"
+  },
+  "encabezado": {
+    "numero_boleta": "023994",
+    "fecha_emision": "07/07/2026",
+    "fecha_vence": "07/08/2026",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Fuente de Soda La Estrella",
+      "rut": "13.456.789-5",
+      "direccion": "O'Higgins 78, Ovalle"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Cheque a 30 días"
+  },
+  "productos": [
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 4500,
+      "total": 18000
+    },
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 1,
+      "unidad": "Caja",
+      "precio_unitario": 10300,
+      "total": 10300
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 16,
+      "unidad": "Unid.",
+      "precio_unitario": 2000,
+      "total": 32000
+    },
+    {
+      "codigo": "ALI-004",
+      "descripcion": "Azúcar blanca 50 kg",
+      "cantidad": 3,
+      "unidad": "Saco",
+      "precio_unitario": 20100,
+      "total": 60300
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 9100,
+      "total": 54600
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 175200,
+    "iva_19": 33288,
+    "total": 208488
+  }
+}

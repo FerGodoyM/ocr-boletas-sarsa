@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_152_N54600_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": 0.111,
+    "generado_en": "2026-06-10T17:10:32"
+  },
+  "encabezado": {
+    "numero_boleta": "054600",
+    "fecha_emision": "24/05/2025",
+    "fecha_vence": "24/06/2025",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Andrés Castillo Díaz",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 9300,
+      "total": 37200
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 4,
+      "unidad": "Saco",
+      "precio_unitario": 15000,
+      "total": 60000
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 14,
+      "unidad": "Caja",
+      "precio_unitario": 5800,
+      "total": 81200
+    },
+    {
+      "codigo": "CAR-002",
+      "descripcion": "Pechuga de pollo sin hueso 5 kg",
+      "cantidad": 10,
+      "unidad": "Bandej",
+      "precio_unitario": 9750,
+      "total": 97500
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 10,
+      "unidad": "Bolsa",
+      "precio_unitario": 3350,
+      "total": 33500
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 309400,
+    "iva_19": 58786,
+    "total": 368186
+  }
+}

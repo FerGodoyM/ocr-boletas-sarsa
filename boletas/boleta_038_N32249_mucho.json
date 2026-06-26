@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_038_N32249_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": 3.014,
+    "generado_en": "2026-06-10T17:07:50"
+  },
+  "encabezado": {
+    "numero_boleta": "032249",
+    "fecha_emision": "09/08/2026",
+    "fecha_vence": "09/09/2026",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 2,
+      "unidad": "Saco",
+      "precio_unitario": 21450,
+      "total": 42900
+    },
+    {
+      "codigo": "CAR-001",
+      "descripcion": "Filete de merluza congelado 5 kg",
+      "cantidad": 2,
+      "unidad": "Bandej",
+      "precio_unitario": 11000,
+      "total": 22000
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 6450,
+      "total": 25800
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 4,
+      "unidad": "Unid.",
+      "precio_unitario": 8450,
+      "total": 33800
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 8750,
+      "total": 26250
+    },
+    {
+      "codigo": "VEG-002",
+      "descripcion": "Cebolla blanca caja 20 kg",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 6200,
+      "total": 18600
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 169350,
+    "iva_19": 32176,
+    "total": 201526
+  }
+}

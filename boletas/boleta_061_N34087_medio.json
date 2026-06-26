@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_061_N34087_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -0.929,
+    "generado_en": "2026-06-10T17:08:23"
+  },
+  "encabezado": {
+    "numero_boleta": "034087",
+    "fecha_emision": "08/06/2026",
+    "fecha_vence": "08/07/2026",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Andrés Castillo Díaz",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 14,
+      "unidad": "Unid.",
+      "precio_unitario": 450,
+      "total": 6300
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 6,
+      "unidad": "Kg",
+      "precio_unitario": 2650,
+      "total": 15900
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 9200,
+      "total": 27600
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 7,
+      "unidad": "Unid.",
+      "precio_unitario": 5700,
+      "total": 39900
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 4,
+      "unidad": "Bolsa",
+      "precio_unitario": 3050,
+      "total": 12200
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 5,
+      "unidad": "Bolsa",
+      "precio_unitario": 8250,
+      "total": 41250
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 143150,
+    "iva_19": 27198,
+    "total": 170348
+  }
+}

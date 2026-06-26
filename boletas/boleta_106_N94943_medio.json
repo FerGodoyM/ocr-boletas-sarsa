@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_106_N94943_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -0.409,
+    "generado_en": "2026-06-10T17:09:28"
+  },
+  "encabezado": {
+    "numero_boleta": "094943",
+    "fecha_emision": "19/06/2026",
+    "fecha_vence": "19/07/2026",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Carlos Mendoza Ríos",
+    "condicion_pago": "Contado",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 5,
+      "unidad": "Saco",
+      "precio_unitario": 12050,
+      "total": 60250
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 1000,
+      "total": 8000
+    },
+    {
+      "codigo": "ALI-002",
+      "descripcion": "Harina de trigo 50 kg (saco)",
+      "cantidad": 6,
+      "unidad": "Saco",
+      "precio_unitario": 16300,
+      "total": 97800
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 6550,
+      "total": 52400
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 218450,
+    "iva_19": 41506,
+    "total": 259956
+  }
+}

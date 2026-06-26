@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_019_N29682_limpia.png",
+    "nivel_ruido": "limpia",
+    "angulo_rotacion": 0.059,
+    "generado_en": "2026-06-10T17:07:24"
+  },
+  "encabezado": {
+    "numero_boleta": "029682",
+    "fecha_emision": "19/09/2025",
+    "fecha_vence": "19/10/2025",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 5,
+      "unidad": "Bandej",
+      "precio_unitario": 13700,
+      "total": 68500
+    },
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 9,
+      "unidad": "Unid.",
+      "precio_unitario": 3800,
+      "total": 34200
+    },
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 6,
+      "unidad": "Unid.",
+      "precio_unitario": 10900,
+      "total": 65400
+    },
+    {
+      "codigo": "VEG-001",
+      "descripcion": "Tomate calibre 1 caja 10 kg",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 5700,
+      "total": 28500
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 3700,
+      "total": 11100
+    },
+    {
+      "codigo": "EMB-002",
+      "descripcion": "Envase térmico 500ml (caja x50)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 13650,
+      "total": 40950
+    },
+    {
+      "codigo": "LAC-002",
+      "descripcion": "Queso gauda 1 kg (bloque)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 7000,
+      "total": 14000
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 262650,
+    "iva_19": 49904,
+    "total": 312554
+  }
+}

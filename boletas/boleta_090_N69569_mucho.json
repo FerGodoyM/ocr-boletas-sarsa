@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_090_N69569_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": -5.394,
+    "generado_en": "2026-06-10T17:09:04"
+  },
+  "encabezado": {
+    "numero_boleta": "069569",
+    "fecha_emision": "25/06/2026",
+    "fecha_vence": "25/07/2026",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Emprendimiento Sabores del Mar",
+      "rut": "14.567.890-3",
+      "direccion": "Los Pescadores 45, Tongoy"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 7,
+      "unidad": "Caja",
+      "precio_unitario": 11600,
+      "total": 81200
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 3800,
+      "total": 19000
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 5200,
+      "total": 26000
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 6,
+      "unidad": "Saco",
+      "precio_unitario": 14300,
+      "total": 85800
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 212000,
+    "iva_19": 40280,
+    "total": 252280
+  }
+}

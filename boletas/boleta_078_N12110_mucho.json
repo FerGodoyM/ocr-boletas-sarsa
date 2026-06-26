@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_078_N12110_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": 1.763,
+    "generado_en": "2026-06-10T17:08:47"
+  },
+  "encabezado": {
+    "numero_boleta": "012110",
+    "fecha_emision": "20/07/2025",
+    "fecha_vence": "20/08/2025",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Gabriela Muñoz Torres",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Transferencia bancaria"
+  },
+  "productos": [
+    {
+      "codigo": "CAR-003",
+      "descripcion": "Carne molida vacuno 5 kg",
+      "cantidad": 2,
+      "unidad": "Bandej",
+      "precio_unitario": 15050,
+      "total": 30100
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 7,
+      "unidad": "Paq.",
+      "precio_unitario": 4100,
+      "total": 28700
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 10350,
+      "total": 20700
+    },
+    {
+      "codigo": "PAN-001",
+      "descripcion": "Pan de molde 600g (caja x12)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 13900,
+      "total": 69500
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 149000,
+    "iva_19": 28310,
+    "total": 177310
+  }
+}

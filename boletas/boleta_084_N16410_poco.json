@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_084_N16410_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": 0.282,
+    "generado_en": "2026-06-10T17:08:55"
+  },
+  "encabezado": {
+    "numero_boleta": "016410",
+    "fecha_emision": "01/10/2026",
+    "fecha_vence": "01/11/2026",
+    "proveedor": {
+      "nombre": "Alimentos y Bebidas Coquimbo SpA",
+      "rut": "77.345.678-9",
+      "direccion": "El Peñón 110, Coquimbo"
+    },
+    "cliente": {
+      "nombre": "Cevichería Puerto Chico",
+      "rut": "17.890.123-6",
+      "direccion": "Av. Costanera 560, Coquimbo"
+    },
+    "vendedor": "Gabriela Muñoz Torres",
+    "condicion_pago": "Crédito 60 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 8,
+      "unidad": "Bolsa",
+      "precio_unitario": 11000,
+      "total": 88000
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 7,
+      "unidad": "Bolsa",
+      "precio_unitario": 3750,
+      "total": 26250
+    },
+    {
+      "codigo": "CON-001",
+      "descripcion": "Caldo de vacuno en polvo 1 kg",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 4800,
+      "total": 24000
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 9050,
+      "total": 18100
+    },
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 25300,
+      "total": 75900
+    },
+    {
+      "codigo": "ALI-008",
+      "descripcion": "Aceitunas verdes 3 kg (balde)",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 8700,
+      "total": 69600
+    },
+    {
+      "codigo": "EMB-001",
+      "descripcion": "Bolsa plástica biodegradable (paq x100)",
+      "cantidad": 6,
+      "unidad": "Paq.",
+      "precio_unitario": 3400,
+      "total": 20400
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 9,
+      "unidad": "Unid.",
+      "precio_unitario": 2050,
+      "total": 18450
+    },
+    {
+      "codigo": "BEV-002",
+      "descripcion": "Agua mineral sin gas 500ml (caja x24)",
+      "cantidad": 16,
+      "unidad": "Caja",
+      "precio_unitario": 6100,
+      "total": 97600
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 438300,
+    "iva_19": 83277,
+    "total": 521577
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_113_N94615_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -1.474,
+    "generado_en": "2026-06-10T17:09:38"
+  },
+  "encabezado": {
+    "numero_boleta": "094615",
+    "fecha_emision": "26/08/2025",
+    "fecha_vence": "26/09/2025",
+    "proveedor": {
+      "nombre": "Distribuidora Alimentos del Norte Ltda.",
+      "rut": "76.432.891-5",
+      "direccion": "Av. Balmaceda 1420, La Serena"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "LAC-004",
+      "descripcion": "Mantequilla 250g (caja x20)",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 24300,
+      "total": 48600
+    },
+    {
+      "codigo": "ALI-001",
+      "descripcion": "Aceite vegetal canola 1 litro",
+      "cantidad": 11,
+      "unidad": "Unid.",
+      "precio_unitario": 2350,
+      "total": 25850
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 8,
+      "unidad": "Unid.",
+      "precio_unitario": 400,
+      "total": 3200
+    },
+    {
+      "codigo": "VEG-006",
+      "descripcion": "Pimentón rojo kg",
+      "cantidad": 8,
+      "unidad": "Kg",
+      "precio_unitario": 2750,
+      "total": 22000
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 15200,
+      "total": 45600
+    },
+    {
+      "codigo": "ALI-006",
+      "descripcion": "Vinagre de vino tinto 750ml",
+      "cantidad": 17,
+      "unidad": "Unid.",
+      "precio_unitario": 1300,
+      "total": 22100
+    },
+    {
+      "codigo": "CON-004",
+      "descripcion": "Mostaza 1 kg (frasco)",
+      "cantidad": 5,
+      "unidad": "Unid.",
+      "precio_unitario": 3550,
+      "total": 17750
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 185100,
+    "iva_19": 35169,
+    "total": 220269
+  }
+}

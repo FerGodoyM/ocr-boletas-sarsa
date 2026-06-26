@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_197_N63183_medio.png",
+    "nivel_ruido": "medio",
+    "angulo_rotacion": -0.32,
+    "generado_en": "2026-06-10T17:11:37"
+  },
+  "encabezado": {
+    "numero_boleta": "063183",
+    "fecha_emision": "11/10/2026",
+    "fecha_vence": "11/11/2026",
+    "proveedor": {
+      "nombre": "Distribuidora El Granero Ltda.",
+      "rut": "76.123.456-7",
+      "direccion": "Av. del Mar 345, La Serena"
+    },
+    "cliente": {
+      "nombre": "Picada Don Memo",
+      "rut": "11.234.567-8",
+      "direccion": "Calle Prat 120, Coquimbo"
+    },
+    "vendedor": "Rodrigo Fuentes León",
+    "condicion_pago": "Crédito 15 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "VEG-005",
+      "descripcion": "Lechuga costina caja 12 unid.",
+      "cantidad": 2,
+      "unidad": "Caja",
+      "precio_unitario": 6300,
+      "total": 12600
+    },
+    {
+      "codigo": "ALI-005",
+      "descripcion": "Sal fina yodada 1 kg",
+      "cantidad": 23,
+      "unidad": "Unid.",
+      "precio_unitario": 450,
+      "total": 10350
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 3,
+      "unidad": "Caja",
+      "precio_unitario": 17300,
+      "total": 51900
+    },
+    {
+      "codigo": "CON-002",
+      "descripcion": "Mayonesa 3 kg (balde)",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 10700,
+      "total": 32100
+    },
+    {
+      "codigo": "BEV-003",
+      "descripcion": "Bebida cola 1.5 lt (caja x12)",
+      "cantidad": 5,
+      "unidad": "Caja",
+      "precio_unitario": 11300,
+      "total": 56500
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 163450,
+    "iva_19": 31056,
+    "total": 194506
+  }
+}

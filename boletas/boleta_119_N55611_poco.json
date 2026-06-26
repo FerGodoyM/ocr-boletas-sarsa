@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_119_N55611_poco.png",
+    "nivel_ruido": "poco",
+    "angulo_rotacion": -0.591,
+    "generado_en": "2026-06-10T17:09:46"
+  },
+  "encabezado": {
+    "numero_boleta": "055611",
+    "fecha_emision": "07/03/2025",
+    "fecha_vence": "07/04/2025",
+    "proveedor": {
+      "nombre": "Mayorista La Cosecha SpA",
+      "rut": "77.891.234-6",
+      "direccion": "Los Aromos 890, Ovalle"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Valentina Rojas Pinto",
+    "condicion_pago": "Crédito 30 días",
+    "forma_pago": "Débito automático"
+  },
+  "productos": [
+    {
+      "codigo": "ALI-007",
+      "descripcion": "Salsa de tomate 3 kg (tarro)",
+      "cantidad": 10,
+      "unidad": "Unid.",
+      "precio_unitario": 3900,
+      "total": 39000
+    },
+    {
+      "codigo": "ALI-003",
+      "descripcion": "Arroz grado 1 - 25 kg",
+      "cantidad": 6,
+      "unidad": "Saco",
+      "precio_unitario": 11750,
+      "total": 70500
+    },
+    {
+      "codigo": "LAC-001",
+      "descripcion": "Leche entera UHT 1 lt (caja x12)",
+      "cantidad": 6,
+      "unidad": "Caja",
+      "precio_unitario": 9950,
+      "total": 59700
+    },
+    {
+      "codigo": "VEG-003",
+      "descripcion": "Papa blanca bolsa 25 kg",
+      "cantidad": 3,
+      "unidad": "Bolsa",
+      "precio_unitario": 9150,
+      "total": 27450
+    },
+    {
+      "codigo": "VEG-004",
+      "descripcion": "Zanahoria bolsa 10 kg",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 4650,
+      "total": 27900
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 224550,
+    "iva_19": 42664,
+    "total": 267214
+  }
+}

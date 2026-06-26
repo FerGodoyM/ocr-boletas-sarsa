@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "archivo_imagen": "boleta_140_N95045_mucho.png",
+    "nivel_ruido": "mucho",
+    "angulo_rotacion": 3.505,
+    "generado_en": "2026-06-10T17:10:15"
+  },
+  "encabezado": {
+    "numero_boleta": "095045",
+    "fecha_emision": "17/06/2026",
+    "fecha_vence": "17/07/2026",
+    "proveedor": {
+      "nombre": "Proveedor Gastro Sur S.A.",
+      "rut": "78.567.890-2",
+      "direccion": "Panamericana 2210, Vicuña"
+    },
+    "cliente": {
+      "nombre": "Café y Cocina La Esquina",
+      "rut": "15.678.234-1",
+      "direccion": "Av. Francisco de Aguirre 840, La Serena"
+    },
+    "vendedor": "Patricia Soto Vega",
+    "condicion_pago": "Contado",
+    "forma_pago": "Efectivo"
+  },
+  "productos": [
+    {
+      "codigo": "CAR-005",
+      "descripcion": "Camarón ecuatoriano crudo 1 kg",
+      "cantidad": 6,
+      "unidad": "Bolsa",
+      "precio_unitario": 10300,
+      "total": 61800
+    },
+    {
+      "codigo": "PAN-002",
+      "descripcion": "Pan pita 300g (bolsa x6)",
+      "cantidad": 4,
+      "unidad": "Bolsa",
+      "precio_unitario": 3900,
+      "total": 15600
+    },
+    {
+      "codigo": "CON-003",
+      "descripcion": "Ketchup 3 kg (balde)",
+      "cantidad": 2,
+      "unidad": "Unid.",
+      "precio_unitario": 7050,
+      "total": 14100
+    },
+    {
+      "codigo": "LAC-003",
+      "descripcion": "Crema de leche 200ml (caja x24)",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 16400,
+      "total": 65600
+    },
+    {
+      "codigo": "DES-001",
+      "descripcion": "Detergente industrial 5 lt",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 8550,
+      "total": 25650
+    },
+    {
+      "codigo": "DES-003",
+      "descripcion": "Papel absorbente caja x4 rollos",
+      "cantidad": 4,
+      "unidad": "Caja",
+      "precio_unitario": 11050,
+      "total": 44200
+    },
+    {
+      "codigo": "DES-002",
+      "descripcion": "Cloro multiusos 5 lt",
+      "cantidad": 3,
+      "unidad": "Unid.",
+      "precio_unitario": 5200,
+      "total": 15600
+    }
+  ],
+  "totales": {
+    "subtotal_neto": 242550,
+    "iva_19": 46084,
+    "total": 288634
+  }
+}
