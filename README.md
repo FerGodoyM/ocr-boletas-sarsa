@@ -60,6 +60,18 @@ Evaluar un modelo guardado sin entrenar:
 python sistema_rl.py --boletas .\boletas --modo sarsa --cargar-modelo .\modelos\sarsa_demo.json --evaluar --max-boletas 20
 ```
 
+Analizar una boleta especifica:
+
+```powershell
+python sistema_rl.py --boletas .\boletas --modo sarsa --cargar-modelo .\modelos\sarsa_200_mejorado.json --evaluar --boleta-especifica boleta_001_N52073_mucho
+```
+
+Tambien puedes indicar el archivo con extension:
+
+```powershell
+python sistema_rl.py --boletas .\boletas --modo sarsa --cargar-modelo .\modelos\sarsa_200_mejorado.json --evaluar --boleta-especifica boleta_001_N52073_mucho.png
+```
+
 Entrenar sin generar grafico comparativo:
 
 ```powershell
